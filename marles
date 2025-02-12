@@ -50,6 +50,7 @@ https://youtu.be/7rdc-QV6P6s?list=RD7rdc-QV6P6s
 
 BATAS    BATAS    BATAS    BATAS    BATAS    BATAS  
 BATAS BATAS BATAS BATAS BATAS BATAS BATAS BATAS BATAS BATAS 
+BATAS BATAS BATAS BATAS BATAS BATAS BATAS BATAS BATAS BATAS 
 
 
 
@@ -326,6 +327,156 @@ http://cempedak-live-cdn.mncnow.id/live/eds/DW/sa_dash_vmx/DW.mpd
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 group-title="TV BERITA / NEWS" tvg-logo="https://i.postimg.cc/t49ndyWC/CGTN.png", CGTN V+
 http://cempedak-live-cdn.mncnow.id/live/eds/CGTN/sa_dash_vmx/CGTN.mpd
+
+-------
+https://github.com/hud4156/mytv/blob/main/indovision.m3u
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTINF:-1 tvg-id="Metro TV - [Channel 107].id" group-title="TV BERITA / NEWS" tvg-logo="https://www.visionplus.id/images/repository/591/591-LOGO-m.png",Metro TV
+https://cempedak-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu-jos.fiqriaw8.workers.dev/dcub
+#EXTINF:-1 tvg-id="MetroTV.id" group-title="TV BERITA / NEWS" tvg-logo="https://www.visionplus.id/images/repository/591/591-LOGO-m.png",Metro TV HD
+https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cd6e548c62390/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTINF:-1 tvg-id="Kompas TV - [Channel 106].id" group-title="TV BERITA / NEWS" tvg-logo="https://www.visionplus.id/images/repository/590/590-LOGO-m.png",Kompas TV
+https://cempedak-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu-jos.fiqriaw8.workers.dev/dcub
+#EXTINF:-1 tvg-id="KompasTV.id" group-title="TV BERITA / NEWS" tvg-logo="https://www.visionplus.id/images/repository/590/590-LOGO-m.png",Kompas TV HD
+https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c68572841ba301729ce2a0d83c16/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTINF:-1 tvg-id="tvOne - [Channel 97].id" group-title="TV BERITA / NEWS" tvg-logo="https://www.visionplus.id/images/repository/589/589-LOGO-m.png",TVOne
+https://cempedak-live-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu-jos.fiqriaw8.workers.dev/dcub
+#EXTINF:-1 tvg-id="tvOne.id" group-title="TV BERITA / NEWS" tvg-logo="https://www.visionplus.id/images/repository/589/589-LOGO-m.png",TVOne HD
+https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6df9359238f/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTINF:-1 tvg-id="" group-title="TV BERITA / NEWS" tvg-logo="https://www.visionplus.id/images/repository/592/592-LOGO-m.png",BTV
+https://cempedak-live-cdn.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu-jos.fiqriaw8.workers.dev/dcub
+#EXTINF:-1 tvg-id="" group-title="TV BERITA / NEWS" tvg-logo="https://www.visionplus.id/images/repository/592/592-LOGO-m.png",BTV HD
+https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c68572841ba301729c80f0d63bfc/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTINF:-1 tvg-id="" group-title="TV BERITA / NEWS" tvg-logo="https://www.visionplus.id/images/repository/584/584-LOGO-m.png",MNC News
+https://cempedak-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTINF:-1 tvg-id="" group-title="TV BERITA / NEWS" tvg-logo="https://www.visionplus.id/images/repository/659/659-LOGO-m.png",IDX Channel
+https://cempedak-live-cdn.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTINF:-1 tvg-id="" group-title="TV BERITA / NEWS" tvg-logo="https://www.visionplus.id/images/repository/594/594-LOGO-m.png",SEA Today
+https://cempedak-live-cdn.mncnow.id/live/eds/SEA-Channel/sa_dash_vmx/SEA-Channel.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTINF:-1 tvg-id="" group-title="TV BERITA / NEWS" tvg-logo="https://www.visionplus.id/images/repository/856/856-LOGO-m.png",JTV
+https://cempedak-live-cdn.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTINF:-1 tvg-id="" group-title="TV BERITA / NEWS" tvg-logo="https://www.visionplus.id/images/repository/365/132365-LOGO-m.png",CNBC
+https://cempedak-live-cdn.mncnow.id/live/eds/CNBC/sa_dash_vmx/CNBC.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu-jos.fiqriaw8.workers.dev/dcub
+#EXTINF:-1 tvg-id="" group-title="TV BERITA / NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2yOIH3z15uAAwbFETaBVbbrjpeO5NVeoR3uEmB8OQdg&s",CNN INDONESIA
+https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c685651d7bcc01651f0e4ce10098/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTINF:-1 tvg-id="" group-title="TV BERITA / NEWS" tvg-logo="https://www.visionplus.id/images/repository/847/847-LOGO-m.png",CNA International
+https://cempedak-live-cdn.mncnow.id/live/eds/ChannelNewsAsia/sa_dash_vmx/ChannelNewsAsia.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTINF:-1 tvg-id="" group-title="TV BERITA / NEWS" tvg-logo="https://www.visionplus.id/images/repository/850/850-LOGO-m.png",Al Jazeera English
+https://cempedak-live-cdn.mncnow.id/live/eds/AlJazeeraInternational/sa_dash_vmx/AlJazeeraInternational.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTINF:-1 tvg-id="" group-title="TV BERITA / NEWS" tvg-logo="https://www.visionplus.id/images/repository/674/674-LOGO-m.png",RT English
+https://cempedak-live-cdn.mncnow.id/live/eds/RTEnglish/sa_dash_vmx/RTEnglish.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTINF:-1 tvg-id="" group-title="TV BERITA / NEWS" tvg-logo="https://www.visionplus.id/images/repository/671/671-LOGO-m.png",France 24 English
+https://cempedak-live-cdn.mncnow.id/live/eds/France24/sa_dash_vmx/France24.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTINF:-1 tvg-id="" group-title="TV BERITA / NEWS" tvg-logo="https://www.visionplus.id/images/repository/670/670-LOGO-m.png",DW English
+https://cempedak-live-cdn.mncnow.id/live/eds/DW/sa_dash_vmx/DW.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTINF:-1 tvg-id="" group-title="TV BERITA / NEWS" tvg-logo="https://www.visionplus.id/images/repository/672/672-LOGO-m.png",TRT World
+https://cempedak-live-cdn.mncnow.id/live/eds/TRTWorld/sa_dash_vmx/TRTWorld.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTINF:-1 tvg-id="" group-title="TV BERITA / NEWS" tvg-logo="https://www.visionplus.id/images/repository/680/680-LOGO-m.png",CGTN
+https://cempedak-live-cdn.mncnow.id/live/eds/CGTN/sa_dash_vmx/CGTN.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTINF:-1 tvg-id="" group-title="TV BERITA / NEWS" tvg-logo="https://www.visionplus.id/images/repository/660/660-LOGO-m.png",BBC World News
+https://cempedak-live-cdn.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTINF:-1 tvg-id="" group-title="TV BERITA / NEWS" tvg-logo="https://www.visionplus.id/images/repository/663/663-LOGO-m.png",Bloomberg TV Asia
+https://cempedak-live-cdn.mncnow.id/live/eds/Bloomberg/sa_dash_vmx/Bloomberg.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTINF:-1 tvg-id="" group-title="TV BERITA / NEWS" tvg-logo="https://www.visionplus.id/images/repository/365/132365-LOGO-m.png",CNBC Asia
+https://cempedak-live-cdn.mncnow.id/live/eds/CNBC/sa_dash_vmx/CNBC.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTINF:-1 tvg-id="" group-title="TV BERITA / NEWS" tvg-logo="https://www.visionplus.id/images/repository/675/675-LOGO-m.png",EuroNews English
+https://cempedak-live-cdn.mncnow.id/live/eds/EuroNews/sa_dash_vmx/EuroNews.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTINF:-1 tvg-id="" group-title="TV BERITA / NEWS" tvg-logo="https://www.visionplus.id/images/repository/662/662-LOGO-m.png",Fox News Channel
+https://cempedak-live-cdn.mncnow.id/live/eds/FoxNews/sa_dash_vmx/FoxNews.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTINF:-1 tvg-id="" group-title="TV BERITA / NEWS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_357.png",DW English
+https://cempedak-live-cdn.mncnow.id/live/eds/DW/sa_dash_vmx/DW.mpd
+
 
 
 ###########################################################
@@ -1324,699 +1475,699 @@ https://wow.nasionaltv.com/ntvsgp/live/tracks-v1a1/mono.m3u8
 
 
 ##################################################
->>>>>>>>>>>> MUROTTAL AL-QURAN TERJEMAH <<<<<<<<<<
+>>>>>>>>>>>> AL-QURAN TERJEMAH MP3 <<<<<<<<<<
 ##################################################
 islamdownload.net/124170-murottal-al-quran-dan-terjemahannya-oleh-syaikh-misyari-rasyid.html
 
-#EXTINF:-1 group-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAwSPTNofqRsfpmyluvPw7drgJ4LgZLmJSlyvNfGYOH8zDQbSgJThDhzawqdnk82iMtB7GKwoE13UzCsDIW9rLIkEWwOAoD2_IYsraPGFYok1Xc2QWO5P5JD2fOBkeLfrZn4eJVEkkCgrY8NBlgcTdqzfg45TTUrAABttFT5Ub0_q3odc7YqlBg0Jogeg/s593/download%20murattal%20al-quran.jpg", MUROTTAL AL-QURAN TERJEMAH
+#EXTINF:-1 group-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAwSPTNofqRsfpmyluvPw7drgJ4LgZLmJSlyvNfGYOH8zDQbSgJThDhzawqdnk82iMtB7GKwoE13UzCsDIW9rLIkEWwOAoD2_IYsraPGFYok1Xc2QWO5P5JD2fOBkeLfrZn4eJVEkkCgrY8NBlgcTdqzfg45TTUrAABttFT5Ub0_q3odc7YqlBg0Jogeg/s593/download%20murattal%20al-quran.jpg", AL-QURAN TERJEMAH MP3
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN TERJEMAH" tvg-logo="https://i.imgur.com/IS9HqO1.png", 001-Al-Fatihah.mp3
+#EXTINF:-1 group-title="AL-QURAN TERJEMAH MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", 001-Al-Fatihah.mp3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://islamdownload.net/r/124170/MisyariRasyid-QuranTerjemah-001-Al-Fatihah.mp3
 
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN TERJEMAH" tvg-logo="https://i.imgur.com/IS9HqO1.png", 002-Al-Baqarah.mp3
+#EXTINF:-1 group-title="AL-QURAN TERJEMAH MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", 002-Al-Baqarah.mp3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://islamdownload.net/r/124170/MisyariRasyid-QuranTerjemah-002-Al-Baqarah.mp3
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN TERJEMAH" tvg-logo="https://i.imgur.com/IS9HqO1.png", 003-Ali-Imran.mp3
+#EXTINF:-1 group-title="AL-QURAN TERJEMAH MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", 003-Ali-Imran.mp3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://islamdownload.net/r/124170/MisyariRasyid-QuranTerjemah-003-Ali-Imran.mp3
 
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN TERJEMAH" tvg-logo="https://i.imgur.com/IS9HqO1.png", 004-An-Nisa.mp3
+#EXTINF:-1 group-title="AL-QURAN TERJEMAH MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", 004-An-Nisa.mp3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://islamdownload.net/r/124170/MisyariRasyid-QuranTerjemah-004-An-Nisa.mp3
 
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN TERJEMAH" tvg-logo="https://i.imgur.com/IS9HqO1.png", 005-Al-Maidah.mp3
+#EXTINF:-1 group-title="AL-QURAN TERJEMAH MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", 005-Al-Maidah.mp3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://islamdownload.net/r/124170/MisyariRasyid-QuranTerjemah-005-Al-Maidah.mp3
 
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN TERJEMAH" tvg-logo="https://i.imgur.com/IS9HqO1.png", 006-Al-Anam.mp3
+#EXTINF:-1 group-title="AL-QURAN TERJEMAH MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", 006-Al-Anam.mp3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://islamdownload.net/r/124170/MisyariRasyid-QuranTerjemah-006-Al-Anam.mp3
 
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN TERJEMAH" tvg-logo="https://i.imgur.com/IS9HqO1.png", 007-Al-Araf.mp3
+#EXTINF:-1 group-title="AL-QURAN TERJEMAH MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", 007-Al-Araf.mp3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://islamdownload.net/r/124170/MisyariRasyid-QuranTerjemah-007-Al-Araf.mp3
 
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN TERJEMAH" tvg-logo="https://i.imgur.com/IS9HqO1.png", 008-Al-Anfal.mp3
+#EXTINF:-1 group-title="AL-QURAN TERJEMAH MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", 008-Al-Anfal.mp3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://islamdownload.net/r/124170/MisyariRasyid-QuranTerjemah-008-Al-Anfal.mp3
 
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN TERJEMAH" tvg-logo="https://i.imgur.com/IS9HqO1.png", 009-At-Taubah.mp3
+#EXTINF:-1 group-title="AL-QURAN TERJEMAH MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", 009-At-Taubah.mp3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://islamdownload.net/r/124170/MisyariRasyid-QuranTerjemah-009-At-Taubah.mp3
 
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN TERJEMAH" tvg-logo="https://i.imgur.com/IS9HqO1.png", 010-Yunus.mp3
+#EXTINF:-1 group-title="AL-QURAN TERJEMAH MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", 010-Yunus.mp3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://islamdownload.net/r/124170/MisyariRasyid-QuranTerjemah-010-Yunus.mp3
 
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN TERJEMAH" tvg-logo="https://i.imgur.com/IS9HqO1.png", 011-Hud.mp3
+#EXTINF:-1 group-title="AL-QURAN TERJEMAH MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", 011-Hud.mp3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://islamdownload.net/r/124170/MisyariRasyid-QuranTerjemah-011-Hud.mp3
 
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN TERJEMAH" tvg-logo="https://i.imgur.com/IS9HqO1.png", 012-Yusuf.mp3
+#EXTINF:-1 group-title="AL-QURAN TERJEMAH MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", 012-Yusuf.mp3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://islamdownload.net/r/124170/MisyariRasyid-QuranTerjemah-012-Yusuf.mp3
 
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN TERJEMAH" tvg-logo="https://i.imgur.com/IS9HqO1.png", 013-Ar-Rad.mp3
+#EXTINF:-1 group-title="AL-QURAN TERJEMAH MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", 013-Ar-Rad.mp3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://islamdownload.net/r/124170/MisyariRasyid-QuranTerjemah-013-Ar-Rad.mp3
 
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN TERJEMAH" tvg-logo="https://i.imgur.com/IS9HqO1.png", 014-Ibrahim.mp3
+#EXTINF:-1 group-title="AL-QURAN TERJEMAH MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", 014-Ibrahim.mp3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://islamdownload.net/r/124170/MisyariRasyid-QuranTerjemah-014-Ibrahim.mp3
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN TERJEMAH" tvg-logo="https://i.imgur.com/IS9HqO1.png", 015-AL-Hijr.mp3
+#EXTINF:-1 group-title="AL-QURAN TERJEMAH MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", 015-AL-Hijr.mp3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://islamdownload.net/r/124170/MisyariRasyid-QuranTerjemah-015-AL-Hijr.mp3
 
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN TERJEMAH" tvg-logo="https://i.imgur.com/IS9HqO1.png", 016-An-Nahl.mp3
+#EXTINF:-1 group-title="AL-QURAN TERJEMAH MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", 016-An-Nahl.mp3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://islamdownload.net/r/124170/MisyariRasyid-QuranTerjemah-016-An-Nahl.mp3
 
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN TERJEMAH" tvg-logo="https://i.imgur.com/IS9HqO1.png", 017-Al-Isra.mp3
+#EXTINF:-1 group-title="AL-QURAN TERJEMAH MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", 017-Al-Isra.mp3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://islamdownload.net/r/124170/MisyariRasyid-QuranTerjemah-017-Al-Isra.mp3
 
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN TERJEMAH" tvg-logo="https://i.imgur.com/IS9HqO1.png", 018-Al-Kahf.mp3
+#EXTINF:-1 group-title="AL-QURAN TERJEMAH MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", 018-Al-Kahf.mp3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://islamdownload.net/r/124170/MisyariRasyid-QuranTerjemah-018-Al-Kahf.mp3
 
 ===========
 ====
 =====
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN TERJEMAH" tvg-logo="https://i.imgur.com/IS9HqO1.png", 019-Maryam.mp3
+#EXTINF:-1 group-title="AL-QURAN TERJEMAH MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", 019-Maryam.mp3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://islamdownload.net/r/124170/MisyariRasyid-QuranTerjemah-019-Maryam.mp3
 
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN TERJEMAH" tvg-logo="https://i.imgur.com/IS9HqO1.png", 020-Thaha.mp3
+#EXTINF:-1 group-title="AL-QURAN TERJEMAH MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", 020-Thaha.mp3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://islamdownload.net/r/124170/MisyariRasyid-QuranTerjemah-020-Thaha.mp3
 
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN TERJEMAH" tvg-logo="https://i.imgur.com/IS9HqO1.png", 021-Al-Anbiya.mp3
+#EXTINF:-1 group-title="AL-QURAN TERJEMAH MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", 021-Al-Anbiya.mp3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://islamdownload.net/r/124170/MisyariRasyid-QuranTerjemah-021-Al-Anbiya.mp3
 
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN TERJEMAH" tvg-logo="https://i.imgur.com/IS9HqO1.png", 022-Al-Hajj.mp3
+#EXTINF:-1 group-title="AL-QURAN TERJEMAH MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", 022-Al-Hajj.mp3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://islamdownload.net/r/124170/MisyariRasyid-QuranTerjemah-022-Al-Hajj.mp
 
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN TERJEMAH" tvg-logo="https://i.imgur.com/IS9HqO1.png", 023-Al-Muminuun.mp3
+#EXTINF:-1 group-title="AL-QURAN TERJEMAH MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", 023-Al-Muminuun.mp3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://islamdownload.net/r/124170/MisyariRasyid-QuranTerjemah-023-Al-Muminuun.mp3
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN TERJEMAH" tvg-logo="https://i.imgur.com/IS9HqO1.png", 024-An-Nuur.mp3
+#EXTINF:-1 group-title="AL-QURAN TERJEMAH MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", 024-An-Nuur.mp3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://islamdownload.net/r/124170/MisyariRasyid-QuranTerjemah-024-An-Nuur.mp3
 
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN TERJEMAH" tvg-logo="https://i.imgur.com/IS9HqO1.png", 025-Al-Furqaan.mp3
+#EXTINF:-1 group-title="AL-QURAN TERJEMAH MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", 025-Al-Furqaan.mp3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://islamdownload.net/r/124170/MisyariRasyid-QuranTerjemah-025-Al-Furqaan.mp3
 
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN TERJEMAH" tvg-logo="https://i.imgur.com/IS9HqO1.png", 026-Asy-Syuaraa.mp3
+#EXTINF:-1 group-title="AL-QURAN TERJEMAH MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", 026-Asy-Syuaraa.mp3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://islamdownload.net/r/124170/MisyariRasyid-QuranTerjemah-026-Asy-Syuaraa.mp3
 
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN TERJEMAH" tvg-logo="https://i.imgur.com/IS9HqO1.png", 027-An-Naml.mp3
+#EXTINF:-1 group-title="AL-QURAN TERJEMAH MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", 027-An-Naml.mp3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://islamdownload.net/r/124170/MisyariRasyid-QuranTerjemah-027-An-Naml.mp3 
 
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN TERJEMAH" tvg-logo="https://i.imgur.com/IS9HqO1.png", 028-Al-Qashash.mp3
+#EXTINF:-1 group-title="AL-QURAN TERJEMAH MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", 028-Al-Qashash.mp3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://islamdownload.net/r/124170/MisyariRasyid-QuranTerjemah-028-Al-Qashash.mp3
 
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN TERJEMAH" tvg-logo="https://i.imgur.com/IS9HqO1.png", 029-Al-Ankabuut.mp3
+#EXTINF:-1 group-title="AL-QURAN TERJEMAH MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", 029-Al-Ankabuut.mp3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://islamdownload.net/r/124170/MisyariRasyid-QuranTerjemah-029-Al-Ankabuut.mp3
 
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN TERJEMAH" tvg-logo="https://i.imgur.com/IS9HqO1.png", 030-Ar-Ruum.mp3
+#EXTINF:-1 group-title="AL-QURAN TERJEMAH MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", 030-Ar-Ruum.mp3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://islamdownload.net/r/124170/MisyariRasyid-QuranTerjemah-030-Ar-Ruum.mp3
 
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN TERJEMAH" tvg-logo="https://i.imgur.com/IS9HqO1.png", 031-Luqman.mp3
+#EXTINF:-1 group-title="AL-QURAN TERJEMAH MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", 031-Luqman.mp3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://islamdownload.net/r/124170/MisyariRasyid-QuranTerjemah-031-Luqman.mp3
 
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN TERJEMAH" tvg-logo="https://i.imgur.com/IS9HqO1.png", 032-As-Sajdah.mp3
+#EXTINF:-1 group-title="AL-QURAN TERJEMAH MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", 032-As-Sajdah.mp3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://islamdownload.net/r/124170/MisyariRasyid-QuranTerjemah-032-As-Sajdah.mp3
 
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN TERJEMAH" tvg-logo="https://i.imgur.com/IS9HqO1.png", 033-Al-Ahzab.mp3
+#EXTINF:-1 group-title="AL-QURAN TERJEMAH MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", 033-Al-Ahzab.mp3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://islamdownload.net/r/124170/MisyariRasyid-QuranTerjemah-033-Al-Ahzab.mp3
 
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN TERJEMAH" tvg-logo="https://i.imgur.com/IS9HqO1.png", 034-Saba.mp3
+#EXTINF:-1 group-title="AL-QURAN TERJEMAH MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", 034-Saba.mp3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://islamdownload.net/r/124170/MisyariRasyid-QuranTerjemah-034-Saba.mp3
 
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN TERJEMAH" tvg-logo="https://i.imgur.com/IS9HqO1.png", 035-Faathir.mp3
+#EXTINF:-1 group-title="AL-QURAN TERJEMAH MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", 035-Faathir.mp3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://islamdownload.net/r/124170/MisyariRasyid-QuranTerjemah-035-Faathir.mp3
 
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN TERJEMAH" tvg-logo="https://i.imgur.com/IS9HqO1.png", 036-Yaasiin.mp3
+#EXTINF:-1 group-title="AL-QURAN TERJEMAH MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", 036-Yaasiin.mp3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://islamdownload.net/r/124170/MisyariRasyid-QuranTerjemah-036-Yaasiin.mp3
 
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN TERJEMAH" tvg-logo="https://i.imgur.com/IS9HqO1.png", 037-Ash-Shaaffaat.mp3
+#EXTINF:-1 group-title="AL-QURAN TERJEMAH MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", 037-Ash-Shaaffaat.mp3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://islamdownload.net/r/124170/MisyariRasyid-QuranTerjemah-037-Ash-Shaaffaat.mp3
 
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN TERJEMAH" tvg-logo="https://i.imgur.com/IS9HqO1.png", 038-Shaad.mp3
+#EXTINF:-1 group-title="AL-QURAN TERJEMAH MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", 038-Shaad.mp3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://islamdownload.net/r/124170/MisyariRasyid-QuranTerjemah-038-Shaad.mp3
 
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN TERJEMAH" tvg-logo="https://i.imgur.com/IS9HqO1.png", 039-Az-Zumar.mp3
+#EXTINF:-1 group-title="AL-QURAN TERJEMAH MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", 039-Az-Zumar.mp3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://islamdownload.net/r/124170/MisyariRasyid-QuranTerjemah-039-Az-Zumar.mp3
 
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN TERJEMAH" tvg-logo="https://i.imgur.com/IS9HqO1.png", 040-Al-Mumin.mp3
+#EXTINF:-1 group-title="AL-QURAN TERJEMAH MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", 040-Al-Mumin.mp3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://islamdownload.net/r/124170/MisyariRasyid-QuranTerjemah-040-Al-Mumin.mp3
 
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN TERJEMAH" tvg-logo="https://i.imgur.com/IS9HqO1.png", 041-Fushshilat.mp3
+#EXTINF:-1 group-title="AL-QURAN TERJEMAH MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", 041-Fushshilat.mp3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://islamdownload.net/r/124170/MisyariRasyid-QuranTerjemah-041-Fushshilat.mp3
 
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN TERJEMAH" tvg-logo="https://i.imgur.com/IS9HqO1.png", 042-Asy-Syuura.mp3
+#EXTINF:-1 group-title="AL-QURAN TERJEMAH MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", 042-Asy-Syuura.mp3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://islamdownload.net/r/124170/MisyariRasyid-QuranTerjemah-042-Asy-Syuura.mp3
 
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN TERJEMAH" tvg-logo="https://i.imgur.com/IS9HqO1.png", 043-Az-Zukhruf.mp3
+#EXTINF:-1 group-title="AL-QURAN TERJEMAH MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", 043-Az-Zukhruf.mp3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://islamdownload.net/r/124170/MisyariRasyid-QuranTerjemah-043-Az-Zukhruf.mp3
 
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN TERJEMAH" tvg-logo="https://i.imgur.com/IS9HqO1.png", 044-Ad-Dukhaan.mp3
+#EXTINF:-1 group-title="AL-QURAN TERJEMAH MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", 044-Ad-Dukhaan.mp3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://islamdownload.net/r/124170/MisyariRasyid-QuranTerjemah-044-Ad-Dukhaan.mp3
 
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN TERJEMAH" tvg-logo="https://i.imgur.com/IS9HqO1.png", 045-Al-Jaatsiyah.mp3
+#EXTINF:-1 group-title="AL-QURAN TERJEMAH MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", 045-Al-Jaatsiyah.mp3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://islamdownload.net/r/124170/MisyariRasyid-QuranTerjemah-045-Al-Jaatsiyah.mp3
 
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN TERJEMAH" tvg-logo="https://i.imgur.com/IS9HqO1.png", 046-Al-Ahqaaf.mp3
+#EXTINF:-1 group-title="AL-QURAN TERJEMAH MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", 046-Al-Ahqaaf.mp3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://islamdownload.net/r/124170/MisyariRasyid-QuranTerjemah-046-Al-Ahqaaf.mp3
 
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN TERJEMAH" tvg-logo="https://i.imgur.com/IS9HqO1.png", 047-Muhammad.mp3
+#EXTINF:-1 group-title="AL-QURAN TERJEMAH MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", 047-Muhammad.mp3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://islamdownload.net/r/124170/MisyariRasyid-QuranTerjemah-047-Muhammad.mp3
 
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN TERJEMAH" tvg-logo="https://i.imgur.com/IS9HqO1.png", 048-Al-Fath.mp3
+#EXTINF:-1 group-title="AL-QURAN TERJEMAH MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", 048-Al-Fath.mp3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://islamdownload.net/r/124170/MisyariRasyid-QuranTerjemah-048-Al-Fath.mp3
 
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN TERJEMAH" tvg-logo="https://i.imgur.com/IS9HqO1.png", 049-Al-Hujuraat.mp3
+#EXTINF:-1 group-title="AL-QURAN TERJEMAH MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", 049-Al-Hujuraat.mp3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://islamdownload.net/r/124170/MisyariRasyid-QuranTerjemah-049-Al-Hujuraat.mp3
 
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN TERJEMAH" tvg-logo="https://i.imgur.com/IS9HqO1.png", 050-Qaaf.mp3
+#EXTINF:-1 group-title="AL-QURAN TERJEMAH MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", 050-Qaaf.mp3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://islamdownload.net/r/124170/MisyariRasyid-QuranTerjemah-050-Qaaf.mp3
 
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN TERJEMAH" tvg-logo="https://i.imgur.com/IS9HqO1.png", 051-Adz-Dzaariyaat.mp3
+#EXTINF:-1 group-title="AL-QURAN TERJEMAH MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", 051-Adz-Dzaariyaat.mp3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://islamdownload.net/r/124170/MisyariRasyid-QuranTerjemah-051-Adz-Dzaariyaat.mp3
 
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN TERJEMAH" tvg-logo="https://i.imgur.com/IS9HqO1.png", 052-Ath-Thuur.mp3
+#EXTINF:-1 group-title="AL-QURAN TERJEMAH MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", 052-Ath-Thuur.mp3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://islamdownload.net/r/124170/MisyariRasyid-QuranTerjemah-052-Ath-Thuur.mp3
 
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN TERJEMAH" tvg-logo="https://i.imgur.com/IS9HqO1.png", 053-An-Najm.mp3
+#EXTINF:-1 group-title="AL-QURAN TERJEMAH MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", 053-An-Najm.mp3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://islamdownload.net/r/124170/MisyariRasyid-QuranTerjemah-053-An-Najm.mp3
 
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN TERJEMAH" tvg-logo="https://i.imgur.com/IS9HqO1.png", 054-Al-Qamar.mp3
+#EXTINF:-1 group-title="AL-QURAN TERJEMAH MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", 054-Al-Qamar.mp3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://islamdownload.net/r/124170/MisyariRasyid-QuranTerjemah-054-Al-Qamar.mp3
 
 
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN TERJEMAH" tvg-logo="https://i.imgur.com/IS9HqO1.png", 055-Ar-Rahmaan.mp3
+#EXTINF:-1 group-title="AL-QURAN TERJEMAH MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", 055-Ar-Rahmaan.mp3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://islamdownload.net/r/124170/MisyariRasyid-QuranTerjemah-055-Ar-Rahmaan.mp3
 
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN TERJEMAH" tvg-logo="https://i.imgur.com/IS9HqO1.png", 056-Al-Waaqiah.mp3
+#EXTINF:-1 group-title="AL-QURAN TERJEMAH MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", 056-Al-Waaqiah.mp3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://islamdownload.net/r/124170/MisyariRasyid-QuranTerjemah-056-Al-Waaqiah.mp3
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN TERJEMAH" tvg-logo="https://i.imgur.com/IS9HqO1.png", 057-Al-Hadiid.mp3
+#EXTINF:-1 group-title="AL-QURAN TERJEMAH MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", 057-Al-Hadiid.mp3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://islamdownload.net/r/124170/MisyariRasyid-QuranTerjemah-057-Al-Hadiid.mp3
 
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN TERJEMAH" tvg-logo="https://i.imgur.com/IS9HqO1.png", 058-Al-Mujaadilah.mp3
+#EXTINF:-1 group-title="AL-QURAN TERJEMAH MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", 058-Al-Mujaadilah.mp3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://islamdownload.net/r/124170/MisyariRasyid-QuranTerjemah-058-Al-Mujaadilah.mp3
 
 
 -=====
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN TERJEMAH" tvg-logo="https://i.imgur.com/IS9HqO1.png", 059-Al-Hasyr.mp3
+#EXTINF:-1 group-title="AL-QURAN TERJEMAH MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", 059-Al-Hasyr.mp3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://islamdownload.net/r/124170/MisyariRasyid-QuranTerjemah-059-Al-Hasyr.mp3
 
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN TERJEMAH" tvg-logo="https://i.imgur.com/IS9HqO1.png", 060-Al-Mumtahanah.mp3
+#EXTINF:-1 group-title="AL-QURAN TERJEMAH MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", 060-Al-Mumtahanah.mp3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://islamdownload.net/r/124170/MisyariRasyid-QuranTerjemah-060-Al-Mumtahanah.mp3
 
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN TERJEMAH" tvg-logo="https://i.imgur.com/IS9HqO1.png", 061-Ash-Shaff.mp3
+#EXTINF:-1 group-title="AL-QURAN TERJEMAH MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", 061-Ash-Shaff.mp3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://islamdownload.net/r/124170/MisyariRasyid-QuranTerjemah-061-Ash-Shaff.mp3
 
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN TERJEMAH" tvg-logo="https://i.imgur.com/IS9HqO1.png", 062-Al-Jumuah.mp3
+#EXTINF:-1 group-title="AL-QURAN TERJEMAH MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", 062-Al-Jumuah.mp3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://islamdownload.net/r/124170/MisyariRasyid-QuranTerjemah-062-Al-Jumuah.mp3
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN TERJEMAH" tvg-logo="https://i.imgur.com/IS9HqO1.png", 063-Al-Munaafiquun.mp3
+#EXTINF:-1 group-title="AL-QURAN TERJEMAH MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", 063-Al-Munaafiquun.mp3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://islamdownload.net/r/124170/MisyariRasyid-QuranTerjemah-063-Al-Munaafiquun.mp3
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN TERJEMAH" tvg-logo="https://i.imgur.com/IS9HqO1.png", 064-At-Taghaabun.mp3
+#EXTINF:-1 group-title="AL-QURAN TERJEMAH MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", 064-At-Taghaabun.mp3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://islamdownload.net/r/124170/MisyariRasyid-QuranTerjemah-064-At-Taghaabun.mp3
 
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN TERJEMAH" tvg-logo="https://i.imgur.com/IS9HqO1.png", 065-Ath-Thalaaq.mp3
+#EXTINF:-1 group-title="AL-QURAN TERJEMAH MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", 065-Ath-Thalaaq.mp3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://islamdownload.net/r/124170/MisyariRasyid-QuranTerjemah-065-Ath-Thalaaq.mp3
 
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN TERJEMAH" tvg-logo="https://i.imgur.com/IS9HqO1.png", 066-At-Tahrim.mp3
+#EXTINF:-1 group-title="AL-QURAN TERJEMAH MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", 066-At-Tahrim.mp3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://islamdownload.net/r/124170/MisyariRasyid-QuranTerjemah-066-At-Tahrim.mp3
 
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN TERJEMAH" tvg-logo="https://i.imgur.com/IS9HqO1.png", 067-Al-Mulk.mp3
+#EXTINF:-1 group-title="AL-QURAN TERJEMAH MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", 067-Al-Mulk.mp3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://islamdownload.net/r/124170/MisyariRasyid-QuranTerjemah-067-Al-Mulk.mp3
 
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN TERJEMAH" tvg-logo="https://i.imgur.com/IS9HqO1.png", 068-Al-Qalam.mp3
+#EXTINF:-1 group-title="AL-QURAN TERJEMAH MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", 068-Al-Qalam.mp3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://islamdownload.net/r/124170/MisyariRasyid-QuranTerjemah-068-Al-Qalam.mp3
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN TERJEMAH" tvg-logo="https://i.imgur.com/IS9HqO1.png", 069-Al-Haaqqah.mp3
+#EXTINF:-1 group-title="AL-QURAN TERJEMAH MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", 069-Al-Haaqqah.mp3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://islamdownload.net/r/124170/MisyariRasyid-QuranTerjemah-069-Al-Haaqqah.mp3
 
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN TERJEMAH" tvg-logo="https://i.imgur.com/IS9HqO1.png", 070-Al-Maaarij.mp3
+#EXTINF:-1 group-title="AL-QURAN TERJEMAH MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", 070-Al-Maaarij.mp3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://islamdownload.net/r/124170/MisyariRasyid-QuranTerjemah-070-Al-Maaarij.mp3
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN TERJEMAH" tvg-logo="https://i.imgur.com/IS9HqO1.png", 071-Nuh.mp3
+#EXTINF:-1 group-title="AL-QURAN TERJEMAH MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", 071-Nuh.mp3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://islamdownload.net/r/124170/MisyariRasyid-QuranTerjemah-071-Nuh.mp3
 
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN TERJEMAH" tvg-logo="https://i.imgur.com/IS9HqO1.png", 072-Al-Jin.mp3
+#EXTINF:-1 group-title="AL-QURAN TERJEMAH MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", 072-Al-Jin.mp3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://islamdownload.net/r/124170/MisyariRasyid-QuranTerjemah-072-Al-Jin.mp3
 
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN TERJEMAH" tvg-logo="https://i.imgur.com/IS9HqO1.png", 073-Al-Muzzammil.mp3
+#EXTINF:-1 group-title="AL-QURAN TERJEMAH MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", 073-Al-Muzzammil.mp3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://islamdownload.net/r/124170/MisyariRasyid-QuranTerjemah-073-Al-Muzzammil.mp3
 
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN TERJEMAH" tvg-logo="https://i.imgur.com/IS9HqO1.png", 074-Al-Muddatstsir.mp3
+#EXTINF:-1 group-title="AL-QURAN TERJEMAH MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", 074-Al-Muddatstsir.mp3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://islamdownload.net/r/124170/MisyariRasyid-QuranTerjemah-074-Al-Muddatstsir.mp3
 
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN TERJEMAH" tvg-logo="https://i.imgur.com/IS9HqO1.png", 075-Al-Qiyaamah.mp3
+#EXTINF:-1 group-title="AL-QURAN TERJEMAH MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", 075-Al-Qiyaamah.mp3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://islamdownload.net/r/124170/MisyariRasyid-QuranTerjemah-075-Al-Qiyaamah.mp3
 
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN TERJEMAH" tvg-logo="https://i.imgur.com/IS9HqO1.png", 076-Al-Insaan.mp3
+#EXTINF:-1 group-title="AL-QURAN TERJEMAH MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", 076-Al-Insaan.mp3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://islamdownload.net/r/124170/MisyariRasyid-QuranTerjemah-076-Al-Insaan.mp3
 
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN TERJEMAH" tvg-logo="https://i.imgur.com/IS9HqO1.png", 077-Al-Mursalaat.mp3
+#EXTINF:-1 group-title="AL-QURAN TERJEMAH MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", 077-Al-Mursalaat.mp3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://islamdownload.net/r/124170/MisyariRasyid-QuranTerjemah-077-Al-Mursalaat.mp3
 
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN TERJEMAH" tvg-logo="https://i.imgur.com/IS9HqO1.png", 078-An-Naba.mp3
+#EXTINF:-1 group-title="AL-QURAN TERJEMAH MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", 078-An-Naba.mp3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://islamdownload.net/r/124170/MisyariRasyid-QuranTerjemah-078-An-Naba.mp3
 
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN TERJEMAH" tvg-logo="https://i.imgur.com/IS9HqO1.png", 079-An-Naaziaat.mp3
+#EXTINF:-1 group-title="AL-QURAN TERJEMAH MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", 079-An-Naaziaat.mp3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://islamdownload.net/r/124170/MisyariRasyid-QuranTerjemah-079-An-Naaziaat.mp3
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN TERJEMAH" tvg-logo="https://i.imgur.com/IS9HqO1.png", 080-Abasa.mp3
+#EXTINF:-1 group-title="AL-QURAN TERJEMAH MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", 080-Abasa.mp3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://islamdownload.net/r/124170/MisyariRasyid-QuranTerjemah-080-Abasa.mp3
 
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN TERJEMAH" tvg-logo="https://i.imgur.com/IS9HqO1.png", 081-At-Takwiir.mp3
+#EXTINF:-1 group-title="AL-QURAN TERJEMAH MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", 081-At-Takwiir.mp3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://islamdownload.net/r/124170/MisyariRasyid-QuranTerjemah-081-At-Takwiir.mp3
 
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN TERJEMAH" tvg-logo="https://i.imgur.com/IS9HqO1.png", 082-Al-Infithaar.mp3
+#EXTINF:-1 group-title="AL-QURAN TERJEMAH MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", 082-Al-Infithaar.mp3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://islamdownload.net/r/124170/MisyariRasyid-QuranTerjemah-082-Al-Infithaar.mp3
 
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN TERJEMAH" tvg-logo="https://i.imgur.com/IS9HqO1.png", 083-Al-Muthaffifin.mp3
+#EXTINF:-1 group-title="AL-QURAN TERJEMAH MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", 083-Al-Muthaffifin.mp3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://islamdownload.net/r/124170/MisyariRasyid-QuranTerjemah-083-Al-Muthaffifin.mp3
 
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN TERJEMAH" tvg-logo="https://i.imgur.com/IS9HqO1.png", 084-Al-Insyiqaaq.mp3
+#EXTINF:-1 group-title="AL-QURAN TERJEMAH MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", 084-Al-Insyiqaaq.mp3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://islamdownload.net/r/124170/MisyariRasyid-QuranTerjemah-084-Al-Insyiqaaq.mp3
 
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN TERJEMAH" tvg-logo="https://i.imgur.com/IS9HqO1.png", 085-Al-Buruuj.mp3
+#EXTINF:-1 group-title="AL-QURAN TERJEMAH MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", 085-Al-Buruuj.mp3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://islamdownload.net/r/124170/MisyariRasyid-QuranTerjemah-085-Al-Buruuj.mp3
 
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN TERJEMAH" tvg-logo="https://i.imgur.com/IS9HqO1.png", 086-Ath-Thaariq.mp3
+#EXTINF:-1 group-title="AL-QURAN TERJEMAH MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", 086-Ath-Thaariq.mp3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://islamdownload.net/r/124170/MisyariRasyid-QuranTerjemah-086-Ath-Thaariq.mp3
 
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN TERJEMAH" tvg-logo="https://i.imgur.com/IS9HqO1.png", 087-Al-Alaa.mp3
+#EXTINF:-1 group-title="AL-QURAN TERJEMAH MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", 087-Al-Alaa.mp3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://islamdownload.net/r/124170/MisyariRasyid-QuranTerjemah-087-Al-Alaa.mp3
 
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN TERJEMAH" tvg-logo="https://i.imgur.com/IS9HqO1.png", 088-Al-Ghaasyiyah.mp3
+#EXTINF:-1 group-title="AL-QURAN TERJEMAH MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", 088-Al-Ghaasyiyah.mp3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://islamdownload.net/r/124170/MisyariRasyid-QuranTerjemah-088-Al-Ghaasyiyah.mp3
 
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN TERJEMAH" tvg-logo="https://i.imgur.com/IS9HqO1.png", 089-Al-Fajr.mp3
+#EXTINF:-1 group-title="AL-QURAN TERJEMAH MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", 089-Al-Fajr.mp3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://islamdownload.net/r/124170/MisyariRasyid-QuranTerjemah-089-Al-Fajr.mp3
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN TERJEMAH" tvg-logo="https://i.imgur.com/IS9HqO1.png", 090-Al-Balad.mp3
+#EXTINF:-1 group-title="AL-QURAN TERJEMAH MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", 090-Al-Balad.mp3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://islamdownload.net/r/124170/MisyariRasyid-QuranTerjemah-090-Al-Balad.mp3
 
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN TERJEMAH" tvg-logo="https://i.imgur.com/IS9HqO1.png", 091-Asy-Syams.mp3
+#EXTINF:-1 group-title="AL-QURAN TERJEMAH MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", 091-Asy-Syams.mp3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://islamdownload.net/r/124170/MisyariRasyid-QuranTerjemah-091-Asy-Syams.mp3
 
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN TERJEMAH" tvg-logo="https://i.imgur.com/IS9HqO1.png", 092-Al-Lail.mp3
+#EXTINF:-1 group-title="AL-QURAN TERJEMAH MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", 092-Al-Lail.mp3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://islamdownload.net/r/124170/MisyariRasyid-QuranTerjemah-092-Al-Lail.mp3
 
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN TERJEMAH" tvg-logo="https://i.imgur.com/IS9HqO1.png", 093-Adh-Dhuhaa.mp3
+#EXTINF:-1 group-title="AL-QURAN TERJEMAH MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", 093-Adh-Dhuhaa.mp3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://islamdownload.net/r/124170/MisyariRasyid-QuranTerjemah-093-Adh-Dhuhaa.mp3
 
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN TERJEMAH" tvg-logo="https://i.imgur.com/IS9HqO1.png", 094-Alam-Nasyrah.mp3
+#EXTINF:-1 group-title="AL-QURAN TERJEMAH MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", 094-Alam-Nasyrah.mp3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://islamdownload.net/r/124170/MisyariRasyid-QuranTerjemah-094-Alam-Nasyrah.mp3
 
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN TERJEMAH" tvg-logo="https://i.imgur.com/IS9HqO1.png", 095-At-Tiin.mp3
+#EXTINF:-1 group-title="AL-QURAN TERJEMAH MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", 095-At-Tiin.mp3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://islamdownload.net/r/124170/MisyariRasyid-QuranTerjemah-095-At-Tiin.mp3
 
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN TERJEMAH" tvg-logo="https://i.imgur.com/IS9HqO1.png", 096-Al-Alaq.mp3
+#EXTINF:-1 group-title="AL-QURAN TERJEMAH MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", 096-Al-Alaq.mp3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://islamdownload.net/r/124170/MisyariRasyid-QuranTerjemah-096-Al-Alaq.mp3
 
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN TERJEMAH" tvg-logo="https://i.imgur.com/IS9HqO1.png", 097-Al-Qadr.mp3
+#EXTINF:-1 group-title="AL-QURAN TERJEMAH MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", 097-Al-Qadr.mp3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://islamdownload.net/r/124170/MisyariRasyid-QuranTerjemah-097-Al-Qadr.mp3
 
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN TERJEMAH" tvg-logo="https://i.imgur.com/IS9HqO1.png", 098-Al-Bayyinah.mp3
+#EXTINF:-1 group-title="AL-QURAN TERJEMAH MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", 098-Al-Bayyinah.mp3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://islamdownload.net/r/124170/MisyariRasyid-QuranTerjemah-098-Al-Bayyinah.mp3
 
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN TERJEMAH" tvg-logo="https://i.imgur.com/IS9HqO1.png", 099-Al-Zalzalah.mp3
+#EXTINF:-1 group-title="AL-QURAN TERJEMAH MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", 099-Al-Zalzalah.mp3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://islamdownload.net/r/124170/MisyariRasyid-QuranTerjemah-099-Al-Zalzalah.mp3
 
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN TERJEMAH" tvg-logo="https://i.imgur.com/IS9HqO1.png", 100-Al-Aadiyaat.mp3
+#EXTINF:-1 group-title="AL-QURAN TERJEMAH MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", 100-Al-Aadiyaat.mp3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://islamdownload.net/r/124170/MisyariRasyid-QuranTerjemah-100-Al-Aadiyaat.mp3
 
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN TERJEMAH" tvg-logo="https://i.imgur.com/IS9HqO1.png", 101-Al-Qaariah.mp3
+#EXTINF:-1 group-title="AL-QURAN TERJEMAH MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", 101-Al-Qaariah.mp3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://islamdownload.net/r/124170/MisyariRasyid-QuranTerjemah-101-Al-Qaariah.mp3
 
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN TERJEMAH" tvg-logo="https://i.imgur.com/IS9HqO1.png", 102-At-Takatsur.mp3
+#EXTINF:-1 group-title="AL-QURAN TERJEMAH MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", 102-At-Takatsur.mp3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://islamdownload.net/r/124170/MisyariRasyid-QuranTerjemah-102-At-Takatsur.mp3
 
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN TERJEMAH" tvg-logo="https://i.imgur.com/IS9HqO1.png", 103-Al-Ashr.mp3
+#EXTINF:-1 group-title="AL-QURAN TERJEMAH MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", 103-Al-Ashr.mp3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://islamdownload.net/r/124170/MisyariRasyid-QuranTerjemah-103-Al-Ashr.mp3
 
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN TERJEMAH" tvg-logo="https://i.imgur.com/IS9HqO1.png", 104-Al-Humazah.mp3
+#EXTINF:-1 group-title="AL-QURAN TERJEMAH MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", 104-Al-Humazah.mp3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://islamdownload.net/r/124170/MisyariRasyid-QuranTerjemah-104-Al-Humazah.mp3
 
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN TERJEMAH" tvg-logo="https://i.imgur.com/IS9HqO1.png", 105-Al-Fil.mp3
+#EXTINF:-1 group-title="AL-QURAN TERJEMAH MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", 105-Al-Fil.mp3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://islamdownload.net/r/124170/MisyariRasyid-QuranTerjemah-105-Al-Fil.mp3
 
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN TERJEMAH" tvg-logo="https://i.imgur.com/IS9HqO1.png", 106-Al-Quraisy.mp3
+#EXTINF:-1 group-title="AL-QURAN TERJEMAH MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", 106-Al-Quraisy.mp3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://islamdownload.net/r/124170/MisyariRasyid-QuranTerjemah-106-Al-Quraisy.mp3
 
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN TERJEMAH" tvg-logo="https://i.imgur.com/IS9HqO1.png", 107-Al-Mauun.mp3
+#EXTINF:-1 group-title="AL-QURAN TERJEMAH MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", 107-Al-Mauun.mp3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://islamdownload.net/r/124170/MisyariRasyid-QuranTerjemah-107-Al-Mauun.mp3
 
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN TERJEMAH" tvg-logo="https://i.imgur.com/IS9HqO1.png", 108-Al-Kautsar.mp3
+#EXTINF:-1 group-title="AL-QURAN TERJEMAH MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", 108-Al-Kautsar.mp3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://islamdownload.net/r/124170/MisyariRasyid-QuranTerjemah-108-Al-Kautsar.mp3
 
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN TERJEMAH" tvg-logo="https://i.imgur.com/IS9HqO1.png", 109-Al-Kaafirun.mp3
+#EXTINF:-1 group-title="AL-QURAN TERJEMAH MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", 109-Al-Kaafirun.mp3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://islamdownload.net/r/124170/MisyariRasyid-QuranTerjemah-109-Al-Kaafirun.mp3
 
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN TERJEMAH" tvg-logo="https://i.imgur.com/IS9HqO1.png", 110-An-Nasr.mp3
+#EXTINF:-1 group-title="AL-QURAN TERJEMAH MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", 110-An-Nasr.mp3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://islamdownload.net/r/124170/MisyariRasyid-QuranTerjemah-110-An-Nasr.mp3
 
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN TERJEMAH" tvg-logo="https://i.imgur.com/IS9HqO1.png", 111-Al-Lahab.mp3
+#EXTINF:-1 group-title="AL-QURAN TERJEMAH MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", 111-Al-Lahab.mp3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://islamdownload.net/r/124170/MisyariRasyid-QuranTerjemah-111-Al-Lahab.mp3
 
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN TERJEMAH" tvg-logo="https://i.imgur.com/IS9HqO1.png", 112-Al-Ikhlas.mp3
+#EXTINF:-1 group-title="AL-QURAN TERJEMAH MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", 112-Al-Ikhlas.mp3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://islamdownload.net/r/124170/MisyariRasyid-QuranTerjemah-112-Al-Ikhlas.mp3
 
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN TERJEMAH" tvg-logo="https://i.imgur.com/IS9HqO1.png", 113-Al-Falaq.mp3
+#EXTINF:-1 group-title="AL-QURAN TERJEMAH MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", 113-Al-Falaq.mp3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://islamdownload.net/r/124170/MisyariRasyid-QuranTerjemah-113-Al-Falaq.mp3
 
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN TERJEMAH" tvg-logo="https://i.imgur.com/IS9HqO1.png", 114-An-Naas.mp3
+#EXTINF:-1 group-title="AL-QURAN TERJEMAH MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", 114-An-Naas.mp3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://islamdownload.net/r/124170/MisyariRasyid-QuranTerjemah-114-An-Naas.mp3
 
 
 ##################################################
->>>>>>>>>>>>>> MUROTTAL AL-QURAN 30 juz <<<<<<<<<<
+>>>>>>>>>>>>>> AL-QURAN 30 JUZ MP3 30 juz <<<<<<<<<<
 ##################################################
 https://github.com/Buddyalfian25/nontons/blob/main/BelzieTV2
-#EXTINF:-1 group-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAwSPTNofqRsfpmyluvPw7drgJ4LgZLmJSlyvNfGYOH8zDQbSgJThDhzawqdnk82iMtB7GKwoE13UzCsDIW9rLIkEWwOAoD2_IYsraPGFYok1Xc2QWO5P5JD2fOBkeLfrZn4eJVEkkCgrY8NBlgcTdqzfg45TTUrAABttFT5Ub0_q3odc7YqlBg0Jogeg/s593/download%20murattal%20al-quran.jpg",MUROTTAL AL-QURAN
+#EXTINF:-1 group-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAwSPTNofqRsfpmyluvPw7drgJ4LgZLmJSlyvNfGYOH8zDQbSgJThDhzawqdnk82iMtB7GKwoE13UzCsDIW9rLIkEWwOAoD2_IYsraPGFYok1Xc2QWO5P5JD2fOBkeLfrZn4eJVEkkCgrY8NBlgcTdqzfg45TTUrAABttFT5Ub0_q3odc7YqlBg0Jogeg/s593/download%20murattal%20al-quran.jpg",AL-QURAN 30 JUZ MP3
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN" tvg-logo="https://i.imgur.com/IS9HqO1.png", Juzz 1
+#EXTINF:-1 group-title="AL-QURAN 30 JUZ MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", Juzz 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 http://j.mp/2b8SiNO
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN" tvg-logo="https://i.imgur.com/IS9HqO1.png", Juzz 2
+#EXTINF:-1 group-title="AL-QURAN 30 JUZ MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", Juzz 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 http://j.mp/2b8RJmQ
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN" tvg-logo="https://i.imgur.com/IS9HqO1.png", Juzz 3
+#EXTINF:-1 group-title="AL-QURAN 30 JUZ MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", Juzz 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 http://j.mp/2bFSrtF
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN" tvg-logo="https://i.imgur.com/IS9HqO1.png", Juzz 4
+#EXTINF:-1 group-title="AL-QURAN 30 JUZ MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", Juzz 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 http://j.mp/2b8SXi3
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN" tvg-logo="https://i.imgur.com/IS9HqO1.png", Juzz 5
+#EXTINF:-1 group-title="AL-QURAN 30 JUZ MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", Juzz 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 http://j.mp/2b8RZm3
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN" tvg-logo="https://i.imgur.com/IS9HqO1.png", Juzz 6
+#EXTINF:-1 group-title="AL-QURAN 30 JUZ MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", Juzz 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 http://j.mp/28MBohs
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN" tvg-logo="https://i.imgur.com/IS9HqO1.png", Juzz 7
+#EXTINF:-1 group-title="AL-QURAN 30 JUZ MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", Juzz 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 http://j.mp/2bFRIZC
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN" tvg-logo="https://i.imgur.com/IS9HqO1.png", Juzz 8
+#EXTINF:-1 group-title="AL-QURAN 30 JUZ MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", Juzz 8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 http://j.mp/2bufF7o
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN" tvg-logo="https://i.imgur.com/IS9HqO1.png", Juzz 9
+#EXTINF:-1 group-title="AL-QURAN 30 JUZ MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", Juzz 9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 http://j.mp/2byr1bu
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN" tvg-logo="https://i.imgur.com/IS9HqO1.png", Juzz 10
+#EXTINF:-1 group-title="AL-QURAN 30 JUZ MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", Juzz 10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 http://j.mp/2bHfyUH
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN" tvg-logo="https://i.imgur.com/IS9HqO1.png", Juzz 11
+#EXTINF:-1 group-title="AL-QURAN 30 JUZ MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", Juzz 11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 http://j.mp/2bHf80y
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN" tvg-logo="https://i.imgur.com/IS9HqO1.png", Juzz 12
+#EXTINF:-1 group-title="AL-QURAN 30 JUZ MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", Juzz 12
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 http://j.mp/2bWnTby
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN" tvg-logo="https://i.imgur.com/IS9HqO1.png", Juzz 13
+#EXTINF:-1 group-title="AL-QURAN 30 JUZ MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", Juzz 13
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 http://j.mp/2bFTiKQ
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN" tvg-logo="https://i.imgur.com/IS9HqO1.png", Juzz 14
+#EXTINF:-1 group-title="AL-QURAN 30 JUZ MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", Juzz 14
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 http://j.mp/2b8SUTA
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN" tvg-logo="https://i.imgur.com/IS9HqO1.png", Juzz 15
+#EXTINF:-1 group-title="AL-QURAN 30 JUZ MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", Juzz 15
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 http://j.mp/2bFRQIM
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN" tvg-logo="https://i.imgur.com/IS9HqO1.png", Juzz 16
+#EXTINF:-1 group-title="AL-QURAN 30 JUZ MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", Juzz 16
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 http://j.mp/2b8SegG
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN" tvg-logo="https://i.imgur.com/IS9HqO1.png", Juzz 17
+#EXTINF:-1 group-title="AL-QURAN 30 JUZ MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", Juzz 17
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 http://j.mp/2brHsFz
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN" tvg-logo="https://i.imgur.com/IS9HqO1.png", Juzz 18
+#EXTINF:-1 group-title="AL-QURAN 30 JUZ MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", Juzz 18
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 http://j.mp/2b8SCfc
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN" tvg-logo="https://i.imgur.com/IS9HqO1.png", Juzz 19
+#EXTINF:-1 group-title="AL-QURAN 30 JUZ MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", Juzz 19
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 http://j.mp/2bFSq95
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN" tvg-logo="https://i.imgur.com/IS9HqO1.png", Juzz 20
+#EXTINF:-1 group-title="AL-QURAN 30 JUZ MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", Juzz 20
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 http://j.mp/2brI1zc
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN" tvg-logo="https://i.imgur.com/IS9HqO1.png", Juzz 21
+#EXTINF:-1 group-title="AL-QURAN 30 JUZ MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", Juzz 21
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 http://j.mp/2b8VcBO
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN" tvg-logo="https://i.imgur.com/IS9HqO1.png", Juzz 22
+#EXTINF:-1 group-title="AL-QURAN 30 JUZ MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", Juzz 22
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 http://j.mp/2bFRxNP
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN" tvg-logo="https://i.imgur.com/IS9HqO1.png", Juzz 23
+#EXTINF:-1 group-title="AL-QURAN 30 JUZ MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", Juzz 23
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 http://j.mp/2brItxm
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN" tvg-logo="https://i.imgur.com/IS9HqO1.png", Juzz 24
+#EXTINF:-1 group-title="AL-QURAN 30 JUZ MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", Juzz 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 http://j.mp/2brHKw5
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN" tvg-logo="https://i.imgur.com/IS9HqO1.png", Juzz 25
+#EXTINF:-1 group-title="AL-QURAN 30 JUZ MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", Juzz 25
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 http://j.mp/2brImlf
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN" tvg-logo="https://i.imgur.com/IS9HqO1.png", Juzz 26
+#EXTINF:-1 group-title="AL-QURAN 30 JUZ MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", Juzz 26
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 http://j.mp/2bFRHF2
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN" tvg-logo="https://i.imgur.com/IS9HqO1.png", Juzz 27
+#EXTINF:-1 group-title="AL-QURAN 30 JUZ MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", Juzz 27
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 http://j.mp/2bFRXno
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN" tvg-logo="https://i.imgur.com/IS9HqO1.png", Juzz 28
+#EXTINF:-1 group-title="AL-QURAN 30 JUZ MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", Juzz 28
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 http://j.mp/2brI3ai
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN" tvg-logo="https://i.imgur.com/IS9HqO1.png", Juzz 29
+#EXTINF:-1 group-title="AL-QURAN 30 JUZ MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", Juzz 29
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 http://j.mp/2bFRyBF
 
-#EXTINF:-1 group-title="MUROTTAL AL-QURAN" tvg-logo="https://i.imgur.com/IS9HqO1.png", Juzz 30
+#EXTINF:-1 group-title="AL-QURAN 30 JUZ MP3" tvg-logo="https://i.imgur.com/IS9HqO1.png", Juzz 30
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 http://j.mp/2bFREcc
 
@@ -2028,51 +2179,6 @@ https://github.com/apistech/project/blob/main/Visionplus.m3u
 
 #EXTINF:-1 group-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQCxOQ-fnRwvGZJPB67zwLLvlfuYICum_GYZuq1gzTmpZCFZNsRCMDqhwGwY173OlVgNOIbTBVlBr-DOMtyS_aJyeEZd1eoVXkVaBdIsxDi2QhTNrHkCUqARnMXCz8qjfK2gOjTyxUcNmFggeuJSUTndvBC-ezJmnGiz68NCG2mG7e5OxA77S0VPIIa20/s571/logo%20MMmovies.png",TV MOVIES
 
----------------------------
-
-#EXTINF:-1 group-title="TV MOVIES" tvg-logo="https://www.visionplus.id/images/repository/611/611-LOGO-m.png",Cinema World
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=958df746f24f371dffc95e7cd714fbd7:fbd6e4540b9a917a27da8be01542f53f
-https://d1abp075u76pbq.cloudfront.net/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
-
-#EXTINF:-1 group-title="TV MOVIES" tvg-logo="https://www.visionplus.id/images/repository/360/273360-LOGO-m.png",Originals
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=eeea0c2986e91a13eacd590ad1ebfe43:0acc16bd84921489f67bad19e4099cae
-https://d1abp075u76pbq.cloudfront.net/live/eds/Cinemachi-HD/sa_dash_vmx/Cinemachi-HD.mpd
-
-#EXTINF:-1 group-title="TV MOVIES" tvg-logo="https://www.visionplus.id/images/repository/376/273376-LOGO-m.png",Cineedge
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=fba45325e2cd8355972ede4981f43b2a:d88a4bdd67f89cd21eb074c81de1b994
-https://d1abp075u76pbq.cloudfront.net/live/eds/Cinemachi-Action/sa_dash_vmx/Cinemachi-Action.mpd
-
-#EXTINF:-1 group-title="TV MOVIES" tvg-logo="https://www.visionplus.id/images/repository/394/273394-LOGO-m.png",Superrix
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6c256f70830647e4bdf654d86e710ed5:fe41e9bcbae52f9d233407f7488bca5f
-https://d1abp075u76pbq.cloudfront.net/live/eds/Cinemachi-Max-HD/sa_dash_vmx/Cinemachi-Max-HD.mpd
-
-#EXTINF:-1 group-title="TV MOVIES" tvg-logo="https://www.visionplus.id/images/repository/397/273397-LOGO-m.png",Uniques
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b64eee6360b118d0d90329cc2c9e4c60:4e97aa6422b26ffb372647dbd0a7683c
-https://d1abp075u76pbq.cloudfront.net/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemachi-Xtra-HD.mpd
-
-#EXTINF:-1 group-title="TV MOVIES" tvg-logo="https://images.indihometv.com/logo_flik_ver2.png",Flik
-https://cdn10jtedge.indihometv.com/joss/133/flik/playlist.m3u8
-
-#EXTINF:-1 group-title="TV MOVIES" tvg-logo="https://images.indihometv.com/assets/OTT-88-MAXSTREAM-HD.png",Maxstream
-https://cdn10jtedge.indihometv.com/joss/194/maxstream/playlist.m3u8
-
-#EXTINF:-1 group-title="TV MOVIES" tvg-logo="https://images.indihometv.com/assets/1725346944_STUDIOUNIVERSAL-OTT-88-WARNA.png",Studio Universal
-https://cdn10jtedge.indihometv.com/joss/130/studiouniversal/playlist.m3u8
-
-#EXTINF:-1 group-title="TV MOVIES" tvg-logo="https://images.indihometv.com/logo_zbioskop_ver1.png",Zee Bioskop
-https://cdn10jtedge.indihometv.com/atm/hlsv3/zbioskop/playlist.m3u8
-
----------------------
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2108,30 +2214,10 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927f
 #EXTINF:-1 tvg-id="Cinemax" group-title="TV MOVIES" group-logo="" tvg-logo="https://iili.io/Ju79znp.png",Cinemax
 https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 
-
-#EXTINF:-1 tvg-id="HBO" group-title="TV MOVIES" group-logo="" tvg-logo="https://iili.io/Ju79f8g.png",HBO
-#http://iptv12k.com:35461/654321/123456/1892
-
-#EXTINF:-1 tvg-id="HBOSig" group-title="TV MOVIES" group-logo="" tvg-logo="https://iili.io/Ju79IMN.png",HBO Signature
-#http://iptv12k.com:35461/654321/123456/1886
-
-#EXTINF:-1 tvg-id="HBOHits" group-title="TV MOVIES" group-logo="" tvg-logo="https://iili.io/Ju79nwv.png",HBO Hits
-#http://iptv12k.com:35461/654321/123456/1888
-
-#EXTINF:-1 tvg-id="HBOFamily" group-title="TV MOVIES" group-logo="" tvg-logo="https://iili.io/Ju79otR.png",HBO Family
-#http://iptv12k.com:35461/654321/123456/1890
-
-#EXTINF:-1 tvg-id="Cinemax" group-title="TV MOVIES" group-logo="" tvg-logo="https://iili.io/Ju79znp.png",Cinemax
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b207c44332844523a3a3b0469e5652d7:fe71aea346db08f8c6fbf0592209f955
-#https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_cinemax.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drmid.layarkacatv.me/
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu-jos.fiqriaw8.workers.dev/dcub
 #EXTINF:-1 tvg-id="WarnerTV" group-title="TV MOVIES" group-logo="" tvg-logo="https://iili.io/H4AlAtp.png",Warner
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
 
@@ -2153,7 +2239,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_v
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drmid.layarkacatv.me/
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu-jos.fiqriaw8.workers.dev/dcub
 #EXTINF:-1 tvg-id="__" group-title="TV MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a7/Bioskop_Indonesia_TV.png",Bioskop Indonesia
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856fd0d66d0170341bf1000905/manifest.mpd
 
@@ -2185,28 +2271,28 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/RockExtremeHD/mpd/RockExtremeHD.m
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 tvg-id="Cinemachi" group-title="TV MOVIES" tvg-logo="https://www.visionplus.id/images/repository/604/604-LOGO-m.png",Cinemachi
+#EXTINF:-1 tvg-id="Originals" group-title="TV MOVIES" tvg-logo="https://www.visionplus.id/images/repository/360/273360-LOGO-m.png",Originals
 https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-HD/sa_dash_vmx/Cinemachi-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 tvg-id="CinemachiKids" group-title="TV MOVIES" tvg-logo="https://www.visionplus.id/images/repository/605/605-LOGO-m.png",Cinemachi Kids
+#EXTINF:-1 tvg-id="Buddy Star" group-title="TV MOVIES" tvg-logo="https://www.visionplus.id/images/repository/392/273392-LOGO-m.png",Buddy Star
 https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemachi-Kids-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 tvg-id="CinemachiAction" group-title="TV MOVIES" tvg-logo="https://www.visionplus.id/images/repository/608/608-LOGO-m.png",Cinemachi Action
-https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-Action/sa_dash_vmx/Cinemachi-Action.mpd
+#EXTINF:-1 tvg-id="Uniques" group-title="TV MOVIES" tvg-logo="https://www.visionplus.id/images/repository/397/273397-LOGO-m.png",Uniques
+https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemachi-Xtra-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 tvg-id="CinemachiMax" group-title="TV MOVIES" tvg-logo="https://www.visionplus.id/images/repository/607/607-LOGO-m.png",Cinemachi Max
+#EXTINF:-1 tvg-id="Superrix" group-title="TV MOVIES" tvg-logo="https://www.visionplus.id/images/repository/394/273394-LOGO-m.png",Superrix
 https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-Max-HD/sa_dash_vmx/Cinemachi-Max-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 tvg-id="CinemachiXtra" group-title="TV MOVIES" tvg-logo="https://www.visionplus.id/images/repository/606/606-LOGO-m.png",Cinemachi Xtra
-https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemachi-Xtra-HD.mpd
+#EXTINF:-1 tvg-id="Cineedge" group-title="TV MOVIES" tvg-logo="https://www.visionplus.id/images/repository/376/273376-LOGO-m.png",Cineedge
+https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-Action/sa_dash_vmx/Cinemachi-Action.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
@@ -2243,6 +2329,9 @@ https://cempedak-live-cdn.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.m
 #EXTINF:-1 tvg-id="FMN.id" group-title="TV MOVIES" tvg-logo="https://www.visionplus.id/images/repository/640/640-LOGO-m.png",FMN
 https://cempedak-live-cdn.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 
+
+---------------------------
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="TV MOVIES",Etv Bioskop
 https://mantul.biz.id:443/inetwork/gayanet12/242
 #EXTINF:-1 tvg-id="24KitchenPortugal.pt" tvg-name="Etv Bioskop 02" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="TV MOVIES",Etv Bioskop 02
@@ -2256,17 +2345,18 @@ https://mantul.biz.id:443/inetwork/gayanet12/27431
 #EXTINF:-1 tvg-id="" tvg-name="Etv Bioskop 06" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="TV MOVIES",Etv Bioskop 6
 https://mantul.biz.id:443/inetwork/gayanet12/28138.ts
 
-########################################################################
->>>>>>>>>>>>>>>>>>>>>>>>   TV PENGETAHUAN & DOKUMENTER   <<<<<<<<<<<<<<<<<<
-########################################################################
-#EXTINF:-1 group-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicH6mDK_bR1BgtQVUFiZXzHR228Jx1fSw_1LaDcIcabyvorg249bz18QREsC7XYK6buRPQSDxiwIzLPw5DlBQfShfJsRTVFkkpWi3wOaC8xtU6EVjUlYxiNrQZMq1bMmvy0gTlmMVU3sHTWfkuU6NI-vWepZ9onz06psAjr3vvSP0kQ24wBJm72y9NEN8/s580/images%20(1)_waifu2x_photo_noise3_scale.png",TV PENGETAHUAN & DOKUMENTER
 
-#EXTINF:-1 group-title="TV PENGETAHUAN & DOKUMENTER"  tvg-logo="https://images.indihometv.com/logo_history_ver3.png",HISTORY[INDEHOME]
+########################################################################
+>>>>>>>>>>>>>>>>>>>>>>>>   TV PENGETAHUAN & HIBURAN   <<<<<<<<<<<<<<<<<<
+########################################################################
+#EXTINF:-1 group-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicH6mDK_bR1BgtQVUFiZXzHR228Jx1fSw_1LaDcIcabyvorg249bz18QREsC7XYK6buRPQSDxiwIzLPw5DlBQfShfJsRTVFkkpWi3wOaC8xtU6EVjUlYxiNrQZMq1bMmvy0gTlmMVU3sHTWfkuU6NI-vWepZ9onz06psAjr3vvSP0kQ24wBJm72y9NEN8/s580/images%20(1)_waifu2x_photo_noise3_scale.png",TV PENGETAHUAN & HIBURAN
+
+#EXTINF:-1 group-title="TV PENGETAHUAN & HIBURAN"  tvg-logo="https://images.indihometv.com/logo_history_ver3.png",HISTORY[INDEHOME]
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/history/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RS0VvSf/animal-planet-logo-tv.jpg" group-title="TV PENGETAHUAN & DOKUMENTER", ANIMAL PLANET
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RS0VvSf/animal-planet-logo-tv.jpg" group-title="TV PENGETAHUAN & HIBURAN", ANIMAL PLANET
 https://cdn08jtedge.indihometv.com/dassdvr/194/animalplanet/manifest.mpd
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch31%29/index.m3u8
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/157532
@@ -2275,155 +2365,320 @@ http://edge.linknetott.swiftserve.com/channelgroup2/cg206production/ch31/03.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 tvg-id="" group-title="TV PENGETAHUAN & DOKUMENTER" tvg-logo="https://www.visionplus.id/images/repository/636/636-LOGO-m.png",NHK World Premium
+#EXTINF:-1 tvg-id="" group-title="TV PENGETAHUAN & HIBURAN" tvg-logo="https://www.visionplus.id/images/repository/636/636-LOGO-m.png",NHK World Premium
 https://cempedak-live-cdn.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 tvg-id="" group-title="TV PENGETAHUAN & DOKUMENTER" tvg-logo="https://www.visionplus.id/images/repository/646/646-LOGO-m.png",Crime + Investigation Asia
+#EXTINF:-1 tvg-id="" group-title="TV PENGETAHUAN & HIBURAN" tvg-logo="https://www.visionplus.id/images/repository/646/646-LOGO-m.png",Crime + Investigation Asia
 https://cempedak-live-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 tvg-id="" group-title="TV PENGETAHUAN & DOKUMENTER" tvg-logo="https://www.visionplus.id/images/repository/648/648-LOGO-m.png",BBC Earth Asia
+#EXTINF:-1 tvg-id="" group-title="TV PENGETAHUAN & HIBURAN" tvg-logo="https://www.visionplus.id/images/repository/648/648-LOGO-m.png",BBC Earth Asia
 https://cempedak-live-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 tvg-id="" group-title="TV PENGETAHUAN & DOKUMENTER" tvg-logo="https://www.visionplus.id/images/repository/650/650-LOGO-m.png",History
+#EXTINF:-1 tvg-id="" group-title="TV PENGETAHUAN & HIBURAN" tvg-logo="https://www.visionplus.id/images/repository/650/650-LOGO-m.png",History
 https://cempedak-live-cdn.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bf7ec2974fa14a248e338280a6e64cb8:7e81ae9282d08881e304aa527a1d7e72
-#EXTINF:-1 tvg-id="" group-title="TV PENGETAHUAN & DOKUMENTER" tvg-logo="https://www.visionplus.id/images/repository/650/650-LOGO-m.png",History HD
+#EXTINF:-1 tvg-id="" group-title="TV PENGETAHUAN & HIBURAN" tvg-logo="https://www.visionplus.id/images/repository/650/650-LOGO-m.png",History HD
 https://atemecdnbalancer-voe.sysln.id/live/eds/HistoryHD/mpd/HistoryHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 tvg-id="" group-title="TV PENGETAHUAN & DOKUMENTER" tvg-logo="https://www.visionplus.id/images/repository/651/651-LOGO-m.png",Love Nature
+#EXTINF:-1 tvg-id="" group-title="TV PENGETAHUAN & HIBURAN" tvg-logo="https://www.visionplus.id/images/repository/651/651-LOGO-m.png",Love Nature
 https://cempedak-live-cdn.mncnow.id/live/eds/lovenature/sa_dash_vmx/lovenature.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 tvg-id="" group-title="TV PENGETAHUAN & DOKUMENTER" tvg-logo="https://www.visionplus.id/images/repository/679/679-LOGO-m.png",CGTN Documentary
+#EXTINF:-1 tvg-id="" group-title="TV PENGETAHUAN & HIBURAN" tvg-logo="https://www.visionplus.id/images/repository/679/679-LOGO-m.png",CGTN Documentary
 https://cempedak-live-cdn.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fe0d35dd7f2045e58bfdfeea879a8ae9:6a61e84d6c9147aa68c06d68f1d7b218
-#EXTINF:-1 tvg-id="" group-title="TV PENGETAHUAN & DOKUMENTER" tvg-logo="https://images.indihometv.com/assets/ANIMALPLANET-OTT-88-HD.png",Animal Planet
+#EXTINF:-1 tvg-id="" group-title="TV PENGETAHUAN & HIBURAN" tvg-logo="https://images.indihometv.com/assets/ANIMALPLANET-OTT-88-HD.png",Animal Planet
 https://atemecdnbalancer-voe.sysln.id/live/eds/AnimalPlanetHD/mpd/AnimalPlanetHD.mpd
 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00cff33589a6468eb98e4db7aad46ca0:53bb2de4f3a4ed84661e4fc527a1fc09
-#EXTINF:-1 tvg-id="Discovery Channel" group-title="TV PENGETAHUAN & DOKUMENTER" tvg-logo="https://www.firstmedia.com/_next/image?url=https%3A%2F%2Fflmngr.firstmedia.com%2Ffiles%2Flogos%2Fchannels%2F1-DOCUMENTARY%2FDiscovery%20Channel%20SD-FirstMedia-Chl-101.jpg&w=1920&q=100",Discovery Channel
+#EXTINF:-1 tvg-id="Discovery Channel" group-title="TV PENGETAHUAN & HIBURAN" tvg-logo="https://www.firstmedia.com/_next/image?url=https%3A%2F%2Fflmngr.firstmedia.com%2Ffiles%2Flogos%2Fchannels%2F1-DOCUMENTARY%2FDiscovery%20Channel%20SD-FirstMedia-Chl-101.jpg&w=1920&q=100",Discovery Channel
 https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryHD/mpd/DiscoveryHD.mpd
 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=27c8a08eabcd4bbc88eda3690cbf6aaf:bb078e32f6df14ca97bff5b8aee8caf5
-#EXTINF:-1 tvg-id="Discovery Asia (HD).sg" group-title="TV PENGETAHUAN & DOKUMENTER" tvg-logo="https://www.firstmedia.com/_next/image?url=https%3A%2F%2Fflmngr.firstmedia.com%2Ffiles%2Fpackages%2FDA-LOGO_FINAL_HD_black.jpg&w=256&q=100",Discovery Asia
+#EXTINF:-1 tvg-id="Discovery Asia (HD).sg" group-title="TV PENGETAHUAN & HIBURAN" tvg-logo="https://www.firstmedia.com/_next/image?url=https%3A%2F%2Fflmngr.firstmedia.com%2Ffiles%2Fpackages%2FDA-LOGO_FINAL_HD_black.jpg&w=256&q=100",Discovery Asia
 https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryAsiaHD/mpd/DiscoveryAsiaHD.mpd
 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=62fae935e91c4e8d9e835a294ea81909:328cfed51cba1bfa41f1bda219ceeff8
-#EXTINF:-1 tvg-id="" group-title="TV PENGETAHUAN & DOKUMENTER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DMAX_-_Logo_2016.svg/1200px-DMAX_-_Logo_2016.svg.png",DMAX 
+#EXTINF:-1 tvg-id="" group-title="TV PENGETAHUAN & HIBURAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DMAX_-_Logo_2016.svg/1200px-DMAX_-_Logo_2016.svg.png",DMAX 
 https://atemecdnbalancer-voe.sysln.id/live/eds/DMAXHD/mpd/DMAXHD.mpd
 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4d3d70298a8f442f9dee7c11a47c3edf:ff7a89f008a62664e5ebd821187296d1
-#EXTINF:-1 tvg-id="HGTV" group-title="TV PENGETAHUAN & DOKUMENTER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png",HGTV 
+#EXTINF:-1 tvg-id="HGTV" group-title="TV PENGETAHUAN & HIBURAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png",HGTV 
 https://atemecdnbalancer-voe.sysln.id/live/eds/HGTVHD/mpd/HGTVHD.mpd
 
+----------
 
-######################################################
->>>>>>>>>>>>>>>  ENTERTAINMENT  <<<<<<<<<<<<<<<<
-######################################################
-https://github.com/apistech/project/blob/main/IndihomeTV.m3u
-https://github.com/apistech/project/blob/main/Visionplus.m3u
+entertainment
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTINF:-1 tvg-id="" group-title="TV PENGETAHUAN & HIBURAN" tvg-logo="https://www.visionplus.id/images/repository/628/628-LOGO-m.png",Animax
+https://cempedak-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
-#EXTINF:-1 group-logo="https://99designs-blog.imgix.net/blog/wp-content/uploads/2019/04/ENTERTAINMENT_LOGOS_jpg_hg7FCAgN.jpg?auto=format&q=60&w=1280&h=750&fit=crop&crop=faces", ENTERTAINMENT
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ecc5bc0e2dec4b9495db147278fb3904:ca86d9fdad6a8e9b1c13368d734e2095
+#EXTINF:-1 tvg-id="" group-title="TV PENGETAHUAN & HIBURAN" tvg-logo="https://www.visionplus.id/images/repository/628/628-LOGO-m.png",Animax HD
+https://atemeshield1-voe.sysln.id/live/eds/AnimaxHD/mpd/AnimaxHD.mpd
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://images.indihometv.com/assets/ALLPLAY-HD-OTT-88.png",AllPlay Ent
-https://cdn10jtedge.indihometv.com/atm/hlsv3/useeprime/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTINF:-1 group-title="TV PENGETAHUAN & HIBURAN" tvg-logo="https://www.visionplus.id/images/repository/534/172534-LOGO-m.png",Food Travel
+https://cempedak-live-cdn.mncnow.id/live/eds/OKTVnow/sa_dash_vmx/OKTVnow.mpd
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://images.indihometv.com/logo_axn_ver2.png",AXN
-https://cdn10jtedge.indihometv.com/atm/hlsv3/axn/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6dc31ac1031242a8b0c37286acb66a37:648286167b494bf9ee122eced0e37de1
+#EXTINF:-1 group-title="TV PENGETAHUAN & HIBURAN" tvg-logo=" ",Food Network
+https://atemecdnbalancer-voe.sysln.id/live/eds/FoodNetworkHD/mpd/FoodNetworkHD.mpd
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://images.indihometv.com/logo_cctv4_small1.png?v=2.0.0.13",CCTV4
-https://cdn10jtedge.indihometv.com/atm/hlsv3/CCTV_4/playlist.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu-jos.fiqriaw8.workers.dev/dcub
+#EXTINF:-1 group-title="TV PENGETAHUAN & HIBURAN" tvg-logo="___",AFN
+https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6857e04fca5017efbaa3ce05d3e/manifest.mpd
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://images.indihometv.com/logo_chinesedrama_small.png?v=2.0.0.13",Chinese Drama
-https://cdn10jtedge.indihometv.com/joss/130/chinesedrama/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=367f9bf4d0684f109d74a9eeb68d32be:59983c58c1b0daa1dcc370f697ccaead
+#EXTINF:-1 tvg-id="" group-title="TV PENGETAHUAN & HIBURAN" tvg-logo="https://www.indihometv.com/assets/images/channel/logo_afc_small.png?v=2.0.0.17",AFN
+https://atemecdnbalancer-voe.sysln.id/live/eds/AFNHD/mpd/AFNHD.mpd
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://images.indihometv.com/logo_cdrama_ver1.png",Citra Drama
-https://cdn10jtedge.indihometv.com/joss/130/cdrama/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=abac9e0bf2b448f8871145829c68a7fd:eebd1a86367df6c2c4aad70b7a6165a9
+#EXTINF:-1 tvg-id="" group-title="TV PENGETAHUAN & HIBURAN" tvg-logo="https://www.firstmedia.com/_next/image?url=https%3A%2F%2Fflmngr.firstmedia.com%2Ffiles%2Flogos%2Fchannels%2F7-LIFESTYLE%2FTLC%20SD-FirstMedia-Chl-72.jpg&w=1920&q=100",TLC
+https://atemecdnbalancer-voe.sysln.id/live/eds/TLCHD/mpd/TLCHD.mpd
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://images.indihometv.com/logo_dunialain_small.png?v=2.0.0.13",Dunia Lain
-https://cdn10jtedge.indihometv.com/joss/130/dunialain/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTINF:-1 tvg-id="" group-title="TV PENGETAHUAN & HIBURAN" tvg-logo="https://www.visionplus.id/images/repository/632/632-LOGO-m.png",Ent
+https://cempedak-live-cdn.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainment.mpd
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://images.indihometv.com/logo_hits_ver1.png",HITS
-https://cdn10jtedge.indihometv.com/joss/133/hits/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTINF:-1 tvg-id="" group-title="TV PENGETAHUAN & HIBURAN" tvg-logo="https://www.visionplus.id/images/repository/633/633-LOGO-m.png",tvN Asia
+https://cempedak-live-cdn.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://images.indihometv.com/logo_hitsnow_ver1.png",HITS Now
-https://cdn10jtedge.indihometv.com/joss/134/hitsnow/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTINF:-1 tvg-id="" group-title="TV PENGETAHUAN & HIBURAN" tvg-logo="https://www.visionplus.id/images/repository/634/634-LOGO-m.png",ONE
+https://cempedak-live-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://images.indihometv.com/logo_insert_small1.png?v=2.0.0.13",Insert
-https://cdn10jtedge.indihometv.com/joss/130/insert720/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7e68d7c2667465f976361eb0d6bd0c1:32a856d04efbf93cee7b2c97643d7998
+#EXTINF:-1 tvg-id="" group-title="TV PENGETAHUAN & HIBURAN" tvg-logo="https://www.visionplus.id/images/repository/634/634-LOGO-m.png",ONE HD
+https://atemecdnbalancer-voe.sysln.id/live/eds/ONEHD/mpd/ONEHD.mpd
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://images.indihometv.com/logo_kplus_ver2.png",K-Plus
-https://cdn10jtedge.indihometv.com/atm/hlsv3/kplus/playlist.m3u8
+// KODIPROP:inputstreamaddon=inputstream.adaptive
+// #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+// #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+// #KODIPROP:inputstream.adaptive.license_key=https://cubmu-jos.fiqriaw8.workers.dev/dcub
+// #EXTINF:-1 tvg-id="" group-title="TV PENGETAHUAN & HIBURAN" tvg-logo="https://www.visionplus.id/images/repository/634/634-LOGO-m.png",ONE HD
+// https://cdnjkt4.transvision.co.id:1000/live/master/100/4028c685840ff049018455ff15294362/manifest.mpd
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://images.indihometv.com/logo_kbsworld_ver2.png",KBS World
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"69646b755f3130303030303030303030":"e4a2359b05563399f1d9adfce641724a"}
-https://cdn13jtedge.indihometv.com/dass/133/kbsworld_dash/manifest_wuseetv.mpd?
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTINF:-1 tvg-id="" group-title="TV PENGETAHUAN & HIBURAN" tvg-logo="https://www.visionplus.id/images/repository/635/635-LOGO-m.png",KIX
+https://cempedak-live-cdn.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://images.indihometv.com/logo_kix_ver1.png",KIX
-https://cdn10jtedge.indihometv.com/joss/133/kix/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6300053f268640b9b2b695cb5ab0677e:cb81072bd6e4d4ff3b3187efff7928d1
+#EXTINF:-1 tvg-id="" group-title="TV PENGETAHUAN & HIBURAN" tvg-logo="https://www.visionplus.id/images/repository/635/635-LOGO-m.png",KIX HD
+https://atemecdnbalancer-voe.sysln.id/live/eds/KIXHD/mpd/KIXHD.mpd
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://images.indihometv.com/logo_kungfutv_small.png",Kungfu TV
-https://cdn10jtedge.indihometv.com/joss/130/kungfutv/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTINF:-1 tvg-id="" group-title="TV PENGETAHUAN & HIBURAN" tvg-logo="https://www.visionplus.id/images/repository/637/637-LOGO-m.png",HITS
+https://cempedak-live-cdn.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://images.indihometv.com/logo_lifetime_small.png",Lifetime
-https://cdn10jtedge.indihometv.com/joss/134/lifetime720/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTINF:-1 tvg-id="" group-title="TV PENGETAHUAN & HIBURAN" tvg-logo="https://www.visionplus.id/images/repository/638/638-LOGO-m.png",AXN
+https://cempedak-live-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://images.indihometv.com/assets/1705919539_NEWTVCOMPREHENSIVE-88-HD-WARNA.png",New TV Comprehensive
-https://cdn10jtedge.indihometv.com/atm/hlsv3/newtvcomprehensive/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b7b00124894d4f1f8b91fba79160b896:bb236ab2b198c2ffd722817bfa74cd08
+#EXTINF:-1 tvg-id="" group-title="TV PENGETAHUAN & HIBURAN" tvg-logo="https://www.visionplus.id/images/repository/638/638-LOGO-m.png",AXN HD
+https://atemecdnbalancer-voe.sysln.id/live/eds/AXNHD/mpd/AXNHD.mpd
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://images.indihometv.com/assets/1705920072_NEWTVFINANCE-88-HD-WARNA.png",New TV Finance
-https://cdn10jtedge.indihometv.com/atm/hlsv3/newtvfinance/playlist.m3u8
+// KODIPROP:inputstreamaddon=inputstream.adaptive
+// #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+// #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+// #KODIPROP:inputstream.adaptive.license_key=https://cubmu-jos.fiqriaw8.workers.dev/dcub
+// #EXTINF:-1 tvg-id="" group-title="TV PENGETAHUAN & HIBURAN" tvg-logo="https://www.visionplus.id/images/repository/638/638-LOGO-m.png",AXN HD
+// https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856b6088c3016b87da299e0b56/manifest.mpd
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://images.indihometv.com/assets/1705920559_NEWTVVARIETY-88-HD-WARNA.png",New TV Variety
-https://cdn10jtedge.indihometv.com/atm/hlsv3/newtvvariety/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTINF:-1 tvg-id="Lifetime - [Channel 167].id" group-title="TV PENGETAHUAN & HIBURAN" tvg-logo="https://www.visionplus.id/images/repository/639/639-LOGO-m.png",Lifetime 
+https://cempedak-live-cdn.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://images.indihometv.com/logo_sone_small.png?v=2.0.0.13",ONE
-https://cdn10jtedge.indihometv.com/joss/133/sone/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2c8ff6307bf94b408b9759d7cdb6e95e:50fede3d058915c8ddaa43721d52ec69
+#EXTINF:-1 tvg-id="Lifetime - [Channel 167].id" group-title="TV PENGETAHUAN & HIBURAN" tvg-logo="https://www.visionplus.id/images/repository/639/639-LOGO-m.png",Lifetime HD
+https://atemecdnbalancer-voe.sysln.id/live/eds/LifetimeHD/mpd/LifetimeHD.mpd
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://images.indihometv.com/logo_blueant_small.png?v=2.5",Rock Entertainment
-https://cdn10jtedge.indihometv.com/atm/hlsv3/rock_entertainment/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTINF:-1 tvg-id="" group-title="TV PENGETAHUAN & HIBURAN" tvg-logo="https://www.visionplus.id/images/repository/641/641-LOGO-m.png",Vision Prime
+https://cempedak-live-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://images.indihometv.com/logo_shenzen_small.png",Shenzen
-https://cdn10jtedge.indihometv.com/joss/130/shenzen/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTINF:-1 tvg-id="" group-title="TV PENGETAHUAN & HIBURAN" tvg-logo="https://www.visionplus.id/images/repository/644/644-LOGO-m.png",Rock Entertainment
+https://cempedak-live-cdn.mncnow.id/live/eds/Rockentertainment/sa_dash_vmx/Rockentertainment.mpd
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://images.indihometv.com/logo_tlc_ver1.png",TLC
-https://cdn10jtedge.indihometv.com/joss/133/tlc/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5468e719846d4dd4adc59e85312375e8:98566155c257462809a8705f5efd7819
+#EXTINF:-1 tvg-id="" group-title="TV PENGETAHUAN & HIBURAN" tvg-logo="https://www.visionplus.id/images/repository/644/644-LOGO-m.png",Rock Entertainment HD
+https://atemecdnbalancer-voe.sysln.id/live/eds/RockEntertainmentHD/mpd/RockEntertainmentHD.mpd
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://images.indihometv.com/logo_tv5monde_small1.png?v=2.0.0.13",TV5Monde
-https://cdn10jtedge.indihometv.com/atm/hlsv3/tv5monde/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTINF:-1 tvg-id="" group-title="TV PENGETAHUAN & HIBURAN" tvg-logo="https://www.visionplus.id/images/repository/686/686-LOGO-m.png",NHK World-Japan
+https://cempedak-live-cdn.mncnow.id/live/eds/NHKWorldTV/sa_dash_vmx/NHKWorldTV.mpd
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://images.indihometv.com/logo_tvn_ver1.png",tvN
-https://cdn10jtedge.indihometv.com/joss/133/tvn/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTINF:-1 tvg-id="" group-title="TV PENGETAHUAN & HIBURAN" tvg-logo="https://www.visionplus.id/images/repository/687/687-LOGO-m.png",TV 5 Monde
+https://cempedak-live-cdn.mncnow.id/live/eds/TV5/sa_dash_vmx/TV5.mpd
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://images.indihometv.com/logo_warner_ver1.png",Warner TV
-https://cdn10jtedge.indihometv.com/atm/hlsv3/warner/playlist.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu-jos.fiqriaw8.workers.dev/dcub
+#EXTINF:-1 tvg-id="" group-title="TV PENGETAHUAN & HIBURAN" tvg-logo="___",The Indonesia Channel
+https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c6857f48ecd2017f6ec01d7f0d4f/manifest.mpd
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://images.indihometv.com/logo_zhejiang_small.png",Zhejiang
-https://cdn10jtedge.indihometv.com/joss/130/zhejiang/playlist.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu-jos.fiqriaw8.workers.dev/dcub
+#EXTINF:-1 tvg-id="" group-title="TV PENGETAHUAN & HIBURAN" tvg-logo="___",Insert
+https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016cdc51294b4f8e/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu-jos.fiqriaw8.workers.dev/dcub
+#EXTINF:-1 tvg-id="" group-title="TV PENGETAHUAN & HIBURAN" tvg-logo="___",Eat N Go
+https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856fd0d66d0170342015d30907/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu-jos.fiqriaw8.workers.dev/dcub
+#EXTINF:-1 tvg-id="" group-title="TV PENGETAHUAN & HIBURAN" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c685840ff0490184616a87db3e62/8eea39bac1c64a668bfc87419b92ce98.jpg",Series Zone
+https://cdnjkt4.transvision.co.id:1000/live/master/100/4028c685840ff04901845606fc274367/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu-jos.fiqriaw8.workers.dev/dcub
+#EXTINF:-1 group-title="TV PENGETAHUAN & HIBURAN" tvg-logo="___",Travel TV
+https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6857fe540a1018060aab83c40b9/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTINF:-1 tvg-id="" group-title="TV PENGETAHUAN & HIBURAN" tvg-logo="https://www.visionplus.id/images/repository/689/689-LOGO-m.png",ABC Australia
+https://cempedak-live-cdn.mncnow.id/live/eds/AustraliaPlus/sa_dash_vmx/AustraliaPlus.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTINF:-1 tvg-id="" group-title="TV PENGETAHUAN & HIBURAN" tvg-logo="https://www.visionplus.id/images/repository/688/688-LOGO-m.png",Arirang World
+https://cempedak-live-cdn.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
+
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4dbd7f200e1f43c1a5a7b0bb4d753527:7fa839050222d118f97ba1f770f7d188
+#EXTINF:-1 tvg-id="" group-title="TV PENGETAHUAN & HIBURAN" tvg-logo=" ",KBS World
+https://atemecdnbalancer-voe.sysln.id/live/eds/KBSWorldHD/mpd/KBSWorldHD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTINF:-1 tvg-id="" group-title="TV PENGETAHUAN & HIBURAN" tvg-logo="https://www.visionplus.id/images/repository/685/685-LOGO-m.png",Jiangsu TV
+https://cempedak-live-cdn.mncnow.id/live/eds/JiangsuTV/sa_dash_vmx/JiangsuTV.mpd
+
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3bd78e03448148aeaeebf394b3196bfd:fe09186f7f8a037caed34d684d429fb5
+#EXTINF:-1 tvg-id="" group-title="TV PENGETAHUAN & HIBURAN" tvg-logo="https://www.visionplus.id/images/repository/685/685-LOGO-m.png",Jiangsu TV HD
+https://atemeshield1-voe.sysln.id/live/eds/JiangsuTV/mpd/JiangsuTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTINF:-1 tvg-id="" group-title="TV PENGETAHUAN & HIBURAN" tvg-logo="https://www.visionplus.id/images/repository/853/853-LOGO-m.png",Hunan TV
+https://cempedak-live-cdn.mncnow.id/live/eds/HunanTV/sa_dash_vmx/HunanTV.mpd
+
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3dd22058fcb94e3790660d256655663b:cacc2086a1ac693d6173084b942e751d
+#EXTINF:-1 tvg-id="" group-title="TV PENGETAHUAN & HIBURAN" tvg-logo="https://www.visionplus.id/images/repository/853/853-LOGO-m.png",Hunan TV HD
+https://atemeshield1-voe.sysln.id/live/eds/HunanTV/mpd/HunanTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTINF:-1 tvg-id="" group-title="TV PENGETAHUAN & HIBURAN" tvg-logo="https://www.visionplus.id/images/repository/683/683-LOGO-m.png",Dragon TV
+https://cempedak-live-cdn.mncnow.id/live/eds/ShanghaiDragonTV/sa_dash_vmx/ShanghaiDragonTV.mpd
+
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=887d3f9e52b3432c8b1a79b1d44ab3fe:4ddc4cd97e7016485cb6d25bc2ba3cda
+#EXTINF:-1 tvg-id="" group-title="TV PENGETAHUAN & HIBURAN" tvg-logo="https://www.visionplus.id/images/repository/683/683-LOGO-m.png",Dragon TV HD
+https://atemeshield1-voe.sysln.id/live/eds/DragonTV/mpd/DragonTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTINF:-1 tvg-id="" group-title="TV PENGETAHUAN & HIBURAN" tvg-logo="https://www.visionplus.id/images/repository/858/858-LOGO-m.png",Xing Kong TV
+https://cempedak-live-cdn.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd
+
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7f123a83acae4361b3c2d5d8d918ff1a:7031880a4c0c7e29014e32554b8b422d
+#EXTINF:-1 tvg-id="" group-title="TV PENGETAHUAN & HIBURAN" tvg-logo="https://www.visionplus.id/images/repository/858/858-LOGO-m.png",Xing Kong TV HD
+https://atemecdnbalancer-voe.sysln.id/live/eds/TVBXingHe/mpd/TVBXingHe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTINF:-1 tvg-id="" group-title="TV PENGETAHUAN & HIBURAN" tvg-logo="https://www.visionplus.id/images/repository/681/681-LOGO-m.png",Anhui TV
+https://cempedak-live-cdn.mncnow.id/live/eds/AnhuiTV/sa_dash_vmx/AnhuiTV.mpd
+
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d71b38eb626d4e9c9297c04a174ab1f8:ed551459c28dacd8a8a3f16a8c5c985b
+#EXTINF:-1 tvg-id="" group-title="TV PENGETAHUAN & HIBURAN" tvg-logo="https://www.visionplus.id/images/repository/681/681-LOGO-m.png",Anhui TV HD
+https://atemeshield1-voe.sysln.id/live/eds/AnhuiTV/mpd/AnhuiTV.mpd
+
+
 
 ######################################################
 >>>>>>>>>>>>>>>  TV MUSIK  <<<<<<<<<<<<<<<<
@@ -2432,19 +2687,6 @@ https://github.com/apistech/project/blob/main/IndihomeTV.m3u
 https://github.com/apistech/project/blob/main/Visionplus.m3u
 
 #EXTINF:-1 group-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvWgluHHUpe5r2VxfiIu5x_L_sIQYIsYhd6KlMHKUQQFukWcrNX4VbsMc-oPO65n5fkVsQT9wiIR5X94HL2GFAPdmzrTH__kVIfO_z-c-Ch_dj_LF9c10WcHfAxTP3jgdbtRNKjjkl_qPGZfAJUeJd5xh3cBf_kcHLjGZyWhY4zy301d7U1qt-6fyOnQ4/s1659/live-music-logo-design-with-neon-hand-drawn-font-free-vector.jpg",TV MUSIK
-
-
-#EXTINF:-1 group-title="TV MUSIK" tvg-logo="https://images.indihometv.com/logo_citradangdut_ver1.png",Citra Dangdut
-https://cdn10jtedge.indihometv.com/joss/130/citradangdut/playlist.m3u8
-
-#EXTINF:-1 group-title="TV MUSIK" tvg-logo="https://images.indihometv.com/logo_mtvlive_ver1.png",MTV Live
-https://cdn10jtedge.indihometv.com/atm/hlsv3/MTV_LIVE/playlist.m3u8
-
-#EXTINF:-1 group-title="TV MUSIK" tvg-logo="https://images.indihometv.com/logo_musikindo_small.png",Musik Indonesia
-https://cdn10jtedge.indihometv.com/joss/134/musikindo720/playlist.m3u8
-
-#EXTINF:-1 group-title="TV MUSIK" tvg-logo="https://images.indihometv.com/logo_pramborstv_small1.png?v=2.0.0.13",Prambors
-https://cdn10jtedge.indihometv.com/atm/hlsv3/PRAMBORS_TV/playlist.m3u8
 
 #EXTINF:-1 group-title="TV MUSIK" tvg-logo="https://www.visionplus.id/images/repository/669/669-LOGO-m.png",MTV 90s
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -2592,7 +2834,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/socc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://unifi-live02.secureswiftcontent.com/UnifiHD/live11.mpd
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/world_wrestling_entertainment.png" group-title="TV OLAHRAGA", Wrestling
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/world_wrestling_TV ENTERTAINMENT.png" group-title="TV OLAHRAGA", Wrestling
 https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/vsL9qN2/Boi-wwe.jpg" group-title="TV OLAHRAGA", WWE
@@ -2717,63 +2959,64 @@ https://raw.githubusercontent.com/quuen2024/llgnew/refs/heads/queen/llgtv
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
 #EXTINF:-1 tvg-id="DAZN 1 ES" tvg-logo=" " group-title="VENDOR DAZN.COM",DAZN 1 ES
-https://thedream.biz.id/prokci/proxy.php/http://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd
+https://thedream.biz.id:443/working/prokci.php/http://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0eab5a3f3e3b4ba5d42d40ca30d17571:f3f061ded9b70e8160590d5802ecda6d
 #EXTINF:-1 tvg-id="DAZN 2 ES" tvg-logo=" " group-title="VENDOR DAZN.COM",DAZN 2 ES
-https://thedream.biz.id/prokci/proxy.php/http://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/xnk4m9bnxt/out/v1/4ced7b7329a54652b9bb0521ed38bd4d/cenc.mpd
+https://thedream.biz.id:443/working/prokci.php/http://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/xnk4m9bnxt/out/v1/4ced7b7329a54652b9bb0521ed38bd4d/cenc.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bad8efff688c0dbb3711e4a7114c22a3:6ba800673b20776c0c850130d45e1920
 #EXTINF:-1 tvg-id="DAZN 3 ES" tvg-logo=" " group-title="VENDOR DAZN.COM",DAZN 3 ES
-https://thedream.biz.id/prokci/proxy.php/http://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/zy1ee5sshp/out/v1/bdcffa69fa3b4f3bb3569c9c73ee1c01/cenc.mpd
+https://thedream.biz.id:443/working/prokci.php/http://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/zy1ee5sshp/out/v1/bdcffa69fa3b4f3bb3569c9c73ee1c01/cenc.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d27104d427e4f87e75b19395a9f8796b:723593c70e2d4c4862754398e80168f8
 #EXTINF:-1 tvg-id="DAZN 4 ES" tvg-logo=" " group-title="VENDOR DAZN.COM",DAZN 4 ES
-https://thedream.biz.id/prokci/proxy.php/http://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/up7qpwch9b/out/v1/a6d5d1a1287b4893b859c2d6ccf2c65d/cenc.mpd
+https://thedream.biz.id:443/working/prokci.php/http://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/up7qpwch9b/out/v1/a6d5d1a1287b4893b859c2d6ccf2c65d/cenc.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=43d1c3b25207ff38b22ccfe17d302367:7b1f85f6e81059473b114c16a25c829a
 #EXTINF:-1 tvg-id="DAZN LaLiga" tvg-logo=" " group-title="VENDOR DAZN.COM",DAZN LaLiga
-https://thedream.biz.id/prokci/proxy.php/http://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd
+https://thedream.biz.id:443/working/prokci.php/http://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6d08b265a6639e32da7c880d5491e3d2:0c92556ca14b95f367993710e7cfbc94
 #EXTINF:-1 tvg-id="LaLiga HyperMotion 1" tvg-logo=" " group-title="VENDOR DAZN.COM",LaLiga HyperMotion 1
-https://thedream.biz.id/prokci/proxy.php/http://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/tu06vubgf9/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd
+https://thedream.biz.id:443/working/prokci.php/http://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/tu06vubgf9/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b1fdeaee3ffc51e9a66cf1938d57aaf:28e3cb88ab7b476b81ab8aa0624c4d71
 #EXTINF:-1 tvg-id="LaLiga HyperMotion 2" tvg-logo=" " group-title="VENDOR DAZN.COM",LaLiga HyperMotion 2
-https://thedream.biz.id/prokci/proxy.php/http://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/woujvkfnmn/out/v1/141b52f08a1e4e97850219729ee48dc8/cenc.mpd
+https://thedream.biz.id:443/working/prokci.php/http://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/woujvkfnmn/out/v1/141b52f08a1e4e97850219729ee48dc8/cenc.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d8235cccf08d0ff149a20dfcd11ff68b:e8ea3a1ae6892eb76a73dc1b14d216d6
 #EXTINF:-1 tvg-id="LaLiga HyperMotion 3" tvg-logo=" " group-title="VENDOR DAZN.COM",LaLiga HyperMotion 3
-https://thedream.biz.id/prokci/proxy.php/http://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/ry1hll2vi2/out/v1/7597903045b6429d8c9ef041b2ad9d98/cenc.mpd
+https://thedream.biz.id:443/working/prokci.php/http://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/ry1hll2vi2/out/v1/7597903045b6429d8c9ef041b2ad9d98/cenc.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1061be12d303247426ec25e8369b2647:bd622b0e610295de3b0bccb850ccaaaa
 #EXTINF:-1 tvg-id="DAZN F1" tvg-logo=" " group-title="VENDOR DAZN.COM",DAZN F1
-https://thedream.biz.id/prokci/proxy.php/http://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/cqbcvgkb83/out/v1/4dbe05ecfb1540448d82d68eeebfbb1c/cenc.mpd
+https://thedream.biz.id:443/working/prokci.php/http://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/cqbcvgkb83/out/v1/4dbe05ecfb1540448d82d68eeebfbb1c/cenc.mpd
+
 
 
 
@@ -16499,5 +16742,3 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64fb3886d940521074e
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"rikelhSG5fVT8NwcTnZQqg","kid":"DFM/jwb8Vju85FEYV/RobQ"}],"type":"temporary"}
-
-
